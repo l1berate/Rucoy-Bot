@@ -1,0 +1,116 @@
+# OLD \X09 CODE
+
+def takeatk(whotowho):
+	try:		
+		if len(whotowho) < 10:
+			monster_id = int(binascii.hexlify(whotowho[:2]), 16)
+			victim_id = int(binascii.hexlify(whotowho[2:6]), 16)
+			return "Monster with ID: {} attacks player ID: {}".format(monster_id, victim_id)
+		elif len(whotowho) == 21:
+			monster_one = int(binascii.hexlify(whotowho[:2]), 16)
+			victim_one = int(binascii.hexlify(whotowho[2:6]), 16)
+			monster_two = int(binascii.hexlify(whotowho[12:14]), 16)
+			victim_two = int(binascii.hexlify(whotowho[14:18]), 16)
+			return "Monster #{} attacks player #{}, monster #{} attacks player #{}".format(monster_one, victim_one, monster_two, victim_two)
+		elif len(whotowho) == 31:
+			monster_one = int(binascii.hexlify(whotowho[:2]), 16)
+			victim_one = int(binascii.hexlify(whotowho[2:6]), 16)
+			moveres = showobj(whotowho[9:])
+			return "Monster #{} attacks player #{}, {}".format(monster_one, victim_one, moveres)
+		elif len(whotowho) == 44:
+			monster_id = int(binascii.hexlify(whotowho[:2]), 16)
+			victim_id = int(binascii.hexlify(whotowho[2:6]), 16)
+			damage_done = int(binascii.hexlify(whotowho[12:16]), 16)
+			hp_left = int(binascii.hexlify(whotowho[20:24]), 16)
+			hp_max = int(binascii.hexlify(whotowho[24:28]), 16)
+			mp_left = int(binascii.hexlify(whotowho[28:32]), 16)
+			mp_max = int(binascii.hexlify(whotowho[32:36]), 16)
+			return "Monster with ID: {} attacks player ID: {} and causes {} damage. HP: {}/{} MP: {}/{}".format(monster_id, victim_id, damage_done, hp_left, hp_max, mp_left, mp_max)
+		elif len(whotowho) == 34:
+			monster_id = int(binascii.hexlify(whotowho[:2]), 16)
+			victim_id = int(binascii.hexlify(whotowho[2:6]), 16)
+			atk_type = int(binascii.hexlify(whotowho[6:7]), 16)
+			lvl_xp = int(binascii.hexlify(whotowho[10:18]), 16)+5
+			melee_xp = int(binascii.hexlify(whotowho[18:22]), 16)
+			archer_xp = int(binascii.hexlify(whotowho[22:26]), 16)
+			mage_xp = int(binascii.hexlify(whotowho[26:30]), 16)
+			def_xp = int(binascii.hexlify(whotowho[30:34]), 16)
+			return "Monster #{} attacks player #{}. Lvl XP: {}, Melee XP: {}, Archer XP: {}, Mage XP: {}, Defense XP: {}.".format(monster_id, victim_id, lvl_xp, melee_xp, archer_xp, mage_xp, def_xp)
+		elif len(whotowho) == 48:
+			one_monster = int(binascii.hexlify(whotowho[:2]), 16)
+			one_victim = int(binascii.hexlify(whotowho[2:6]), 16)
+			two_monster = int(binascii.hexlify(whotowho[12:14]), 16)
+			two_victim = int(binascii.hexlify(whotowho[14:18]), 16)
+			three_monster = int(binascii.hexlify(whotowho[24:26]), 16)
+			three_victim = int(binascii.hexlify(whotowho[26:30]), 16)
+			four_monster = int(binascii.hexlify(whotowho[36:38]), 16)
+			four_victim = int(binascii.hexlify(whotowho[38:42]), 16)
+			return "Monster #{} attacks player #{}, monster #{} attacks player #{}, monster #{} attacks player #{}, and monster #{} attacks player #{}.".format(one_monster, one_victim, two_monster, two_victim, three_monster, three_victim, four_monster, four_victim)
+		elif len(whotowho) == 56:
+			f_monster_id = int(binascii.hexlify(whotowho[:2]), 16)
+			f_victim_id = int(binascii.hexlify(whotowho[2:6]), 16)
+			s_monster_id = int(binascii.hexlify(whotowho[12:14]), 16)
+			s_victim_id = int(binascii.hexlify(whotowho[14:18]), 16)
+			damage_done = int(binascii.hexlify(whotowho[24:28]), 16)
+			hp_left = int(binascii.hexlify(whotowho[32:36]), 16)
+			hp_max = int(binascii.hexlify(whotowho[36:40]), 16)
+			mp_left = int(binascii.hexlify(whotowho[40:44]), 16)
+			mp_max = int(binascii.hexlify(whotowho[44:48]), 16)
+			return "Monster with ID: {} attacks player ID: {}. Monster with ID: {} attacks player ID: {} and causes {} damage. HP: {}/{} MP: {}/{}".format(f_monster_id, f_victim_id, s_monster_id, s_victim_id, damage_done, hp_left, hp_max, mp_left, mp_max)
+		else:
+			monster_id = int(binascii.hexlify(whotowho[:2]), 16)
+			victim_id = int(binascii.hexlify(whotowho[2:6]), 16)
+			restidk = spill(whotowho[6:])
+			if len(whotowho) == 34:
+				return "Monster with ID: {} attacks player ID: {} | Rest: {}{}{}".format(monster_id, victim_id, Fore.GREEN, restidk, Fore.BLUE)
+			else:
+				return "Monster with ID: {} attacks player ID: {} | Rest: {}{}{}".format(monster_id, victim_id, Fore.YELLOW, restidk, Fore.BLUE)
+	except:
+		return "An unknown error occured"
+
+# NEW \X09 CODE
+
+def takeatk(whotowho):
+	try:
+		lastindex = 0
+		returnable = ""
+		while lastindex <= len(whotowho):
+			
+	except Exception as e:
+		return "An unknown error occured - {}".format(e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

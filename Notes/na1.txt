@@ -1,0 +1,1504 @@
+You will have the ID of 11853423 for this session. You have 2,901,826 gold on your person. Bag currently has 30 out of 64 slots filled.
+Slot 1: 200 of item Super Health Potion.
+Slot 2: 187 of item Super Mana Potion.
+Slot 3: 1 of item Assassin's Key.
+Slot 4: 1 of item Vampire's Key.
+Slot 5: 1 of item Drow's Key.
+Slot 6: 1 of item Lizard's Key.
+Slot 7: 5 of item Town Scroll Lv.150.
+Slot 8: 1 of item Gargoyle's Key.
+Slot 9: 5 of item Return Scroll.
+Slot 10: 196 of item Super Health Potion.
+Slot 11: 5 of item Destination Scroll.
+Slot 12: 446 of item Arrows.
+Slot 13: 1 of item Training Bow.
+Slot 14: 1 of item Halloween Potion.
+Slot 15: 1 of item Life Pendant.
+Slot 16: 1 of item Return Scroll.
+Slot 17: 1 of item Training Dagger.
+Slot 18: 1 of item Mana Potion.
+Slot 19: 2 of item Greater Mana Potion.
+Slot 20: 1 of item Greater Health Potion.
+Slot 21: 1 of item Health Potion.
+Slot 22: 2 of item Town Scroll.
+Slot 23: 1 of item Leather Glove Right.
+Slot 24: 1 of item Leather Glove Right.
+Slot 25: 1 of item Leather Glove Right.
+Slot 26: 1 of item Leather Glove Right.
+Slot 27: 1 of item Novice Wand.
+Slot 28: 1 of item Priest Wand.
+Slot 29: 1 of item Training Wand.
+Slot 30: 1 of item Drow Hood.
+Lvl XP: 100,682,699. Melee XP: 140,142. Archer XP: 65,663. Mage XP: 598,228. Defense XP: 548,947. HP: 4240/4240, MP: 2643/2860. You have 125 diamonds and can gift/sell 2,760 diamonds. You can no longer set up a store. You currently have 38 out of 60 friends. Your friends are:
+Slot 1: Reaper Of Noobs | Status: Offline.
+Slot 2: Qts Ilona Dwyn | Status: Offline.
+Slot 3: Deathcomes | Status: Offline.
+Slot 4: Killing Is Good | Status: Offline.
+Slot 5: Exo Dru | Status: Offline.
+Slot 6: Drivebye | Status: Offline.
+Slot 7: Hbs Queen | Status: Offline.
+Slot 8: Comatoast | Status: Offline.
+Slot 9: Gary The Lycan | Status: Offline.
+Slot 10: King Herat | Status: Offline.
+Slot 11: Glicia | Status: Offline.
+Slot 12: Ggggsj | Status: Offline.
+Slot 13: Farinnnnnnnnnnn | Status: Offline.
+Slot 14: Epicruler | Status: Offline.
+Slot 15: Infinity Blade | Status: Offline.
+Slot 16: Hbs Reality | Status: Offline.
+Slot 17: Archangelraziel | Status: Offline.
+Slot 18: Veltroid | Status: Offline.
+Slot 19: Enyaws | Status: Offline.
+Slot 20: Glxxm | Status: Offline.
+Slot 21: Haze Dazed | Status: Offline.
+Slot 22: Twilight Star | Status: Offline.
+Slot 23: Adhs Suck Wolfi | Status: Offline.
+Slot 24: The Pawn Shop | Status: Offline.
+Slot 25: Undead Martyr | Status: Offline.
+Slot 26: Hbs Hunter | Status: Offline.
+Slot 27: Xl Sex Machine | Status: Offline.
+Slot 28: Rucoy | Status: Offline.
+Slot 29: Fragile Knight | Status: Offline.
+Slot 30: Infinity Reaper | Status: Offline.
+Slot 31: Wanted Nuke Doe | Status: Offline.
+Slot 32: Hbs Inferno Il | Status: Offline.
+Slot 33: Vip Cpt Oreo | Status: Offline.
+Slot 34: Bandit Girl | Status: Offline.
+Slot 35: Sgt Of Asgard | Status: Offline.
+Slot 36: Jav Jr | Status: Offline.
+Slot 37: Halloween Pots | Status: Offline.
+Slot 38: Amor Sinsero | Status: Offline.
+Player name: 'Ookamisama' of level 276 has the id of #11853423 for this session, is not in a guild, and is at coordinates 130, 272. Player has nothing in their store. Player name: 'Farewolds' of level 87 has the id of #11846094 for this session, is not in a guild, and is at coordinates 129, 268.
+Player Store:
+Slot 1: 1 of item Assassin's Key for 9,000 gold.
+Slot 2: 1 of item Assassin's Key for 9,000 gold.
+Slot 3: 1 of item Assassin's Key for 9,000 gold.
+The Vault Merchant will have the id of 4989 for this session and is at 130, 268. Player name: 'Xggfbf' of level 45 has the id of #11843963 for this session, is not in a guild, and is at coordinates 130, 269. Player has nothing in their store. Player name: 'Il Bank Bkd Il' of level 40 has the id of #4862080 for this session, is not in a guild, and is at coordinates 124, 275.
+Player Store:
+Slot 1: 1 of item Minotaur Light Armor Ar.22 for 750,000 gold.
+Slot 2: 1 of item Minotaur Light Armor Ar.22 for 760,000 gold.
+Slot 3: 1 of item Minotaur Light Armor Ar.22 for 760,000 gold.
+Slot 4: 1 of item Minotaur Light Armor Ar.22 for 760,000 gold.
+Slot 5: 1 of item Dragon Belt Ar.23 for 359,000 gold.
+Slot 6: 1 of item #409 for 499,000 gold.
+Slot 7: 1 of item Minotaur Slayer Atk.42 for 499,000 gold.
+Slot 8: 1 of item Minotaur Slayer Atk.42 for 499,000 gold.
+Slot 9: 1 of item Shaman Wand Atk.39 for 199,000 gold.
+Slot 10: 1 of item Lizard Hood Ar.14 for 250,000 gold.
+Slot 11: 1 of item Lizard Legs Ar.34 for 389,000 gold.
+Slot 12: 1 of item Lizard Legs Ar.34 for 389,000 gold.
+Slot 13: 1 of item Lizard Belt Ar.20 for 380,000 gold.
+Slot 14: 1 of item Lizard Belt Ar.20 for 380,000 gold.
+Slot 15: 1 of item Lizard Belt Ar.20 for 380,000 gold.
+Slot 16: 1 of item Green Backpack Ca.58 for 900,000 gold.
+Slot 17: 1 of item Lizard Hat Ar.8 for 190,000 gold.
+Slot 18: 1 of item Healer Glove Left (Gold) for 9,899,000 gold.
+Slot 19: 1 of item #358 for 9,799,000 gold.
+Slot 20: 1 of item Lizard Belt Ar.20 for 379,000 gold.
+Player name: 'Big Ghost' of level 25 has the id of #6467665 for this session, is not in a guild, and is at coordinates 128, 271.
+Player Store:
+Slot 1: 1 of item Frozen Hood Ar.18 for 5,942,000 gold.
+Slot 2: 1 of item #309 for 181,000 gold.
+Slot 3: 1 of item Minotaur Armor Ar.44 for 995,000 gold.
+Slot 4: 1 of item Minotaur Armor Ar.46 for 4,925,000 gold.
+Slot 5: 1 of item Frozen Armor Ar.52 for 28,422,000 gold.
+Slot 6: 1 of item Minotaur Light Armor Ar.23 for 4,175,000 gold.
+Slot 7: 1 of item Frozen Light Armor Ar.26 for 13,142,000 gold.
+Slot 8: 1 of item Minotaur Belt Ar.23 for 293,000 gold.
+Slot 9: 1 of item Gargoyle Robe Ar.13 for 2,143,000 gold.
+Slot 10: 1 of item Frozen Robe Ar.17 for 722,000 gold.
+Slot 11: 1 of item Minotaur Robe Ar.16 for 2,693,000 gold.
+Slot 12: 1 of item Frozen Boots Ar.26 for 21,942,000 gold.
+Slot 13: 1 of item Frozen Glove Left Ar.17 for 642,000 gold.
+Slot 14: 1 of item #334 for 361,000 gold.
+Slot 15: 1 of item Minotaur Backpack Ca.68 for 4,973,000 gold.
+Slot 16: 1 of item Icy Broadsword Atk.47 for 792,000 gold.
+Slot 17: 1 of item Recovery Glove Right (Blue) for 4,500,000 gold.
+Slot 18: 1 of item Recovery Glove Left (Purple) for 9,500,000 gold.
+Slot 19: 1 of item #398 for 13,000,000 gold.
+Slot 20: 1 of item #386 for 36,000,000 gold.
+Slot 21: 1 of item Recovery Ring for 16,000,000 gold.
+Slot 22: 1 of item Recovery Boots (Gold) for 28,000,000 gold.
+Player name: 'Big Igloo' of level 10 has the id of #6532767 for this session, is not in a guild, and is at coordinates 127, 271.
+Player Store:
+Slot 1: 1 of item Lizard Robe Ar.13 for 2,138,000 gold.
+Slot 2: 1 of item Lizard Robe Ar.14 for 198,000 gold.
+Slot 3: 1 of item Dragon Robe Ar.15 for 725,000 gold.
+Slot 4: 1 of item Lizard Hat Ar.8 for 198,000 gold.
+Slot 5: 1 of item Steel Light Armor Ar.15 for 117,000 gold.
+Slot 6: 1 of item Dragon Light Armor Ar.22 for 995,000 gold.
+Slot 7: 1 of item Steel Belt for 107,000 gold.
+Slot 8: 1 of item Lizard Belt Ar.20 for 328,000 gold.
+Slot 9: 1 of item Dragon Hood Ar.16 for 345,000 gold.
+Slot 10: 1 of item Lizard Glove Right Ar.14 for 298,000 gold.
+Slot 11: 1 of item Lizard Armor Ar.40 for 348,000 gold.
+Slot 12: 1 of item Battle Shield Ar.42 for 288,000 gold.
+Slot 13: 1 of item #85 for 107,000 gold.
+Slot 14: 1 of item Shaman Wand Atk.39 for 2,108,000 gold.
+Slot 15: 1 of item Dragon Wand Atk.44 for 645,000 gold.
+Slot 16: 1 of item Lizard Bow Atk.39 for 208,000 gold.
+Slot 17: 1 of item Soul Pendant for 264,000 gold.
+Slot 18: 1 of item Healer Glove Right (Gold) for 18,000,000 gold.
+Slot 19: 1 of item Healer Glove Left (Blue) for 3,500,000 gold.
+Slot 20: 1 of item #353 for 72,000,000 gold.
+Player name: 'Killer Pandas' of level 18 has the id of #6643536 for this session, is not in a guild, and is at coordinates 129, 271.
+Player Store:
+Slot 1: 1 of item Drow Robe for 97,000 gold.
+Slot 2: 1 of item Lizard Robe Ar.14 for 198,000 gold.
+Slot 3: 1 of item Dragon Robe Ar.15 for 725,000 gold.
+Slot 4: 1 of item Steel Light Armor Ar.15 for 117,000 gold.
+Slot 5: 1 of item Dragon Light Armor Ar.22 for 995,000 gold.
+Slot 6: 1 of item Dragon Legs Ar.39 for 645,000 gold.
+Slot 7: 1 of item Lizard Boots Ar.20 for 348,000 gold.
+Slot 8: 1 of item Lizard Hat Ar.8 for 198,000 gold.
+Slot 9: 1 of item Dragon Helmet Ar.30 for 545,000 gold.
+Slot 10: 1 of item Steel Glove Left for 127,000 gold.
+Slot 11: 1 of item #123 for 147,000 gold.
+Slot 12: 1 of item Battle Shield Ar.42 for 288,000 gold.
+Slot 13: 1 of item Lizard Armor Ar.40 for 348,000 gold.
+Slot 14: 1 of item Green Backpack Ca.60 for 368,000 gold.
+Slot 15: 1 of item Dragon Backpack for 1,095,000 gold.
+Slot 16: 1 of item Royal Priest Wand Atk.34 for 187,000 gold.
+Slot 17: 1 of item #125 for 167,000 gold.
+Slot 18: 1 of item Lizard Bow Atk.39 for 208,000 gold.
+Slot 19: 1 of item Life Pendant for 2,074,000 gold.
+Slot 20: 1 of item Soul Pendant for 264,000 gold.
+Slot 21: 1 of item #403 for 36,000,000 gold.
+Slot 22: 1 of item #292 for 154,000,000 gold.
+Player name: 'Eternal Flash' of level 361 has the id of #9432314 for this session, is not in a guild, and is at coordinates 123, 275.
+Player Store:
+Slot 1: 1 of item Training Bow Atk.4 for 15,299,999 gold.
+Slot 2: 1 of item #351 for 8,499,000 gold.
+Slot 3: 1 of item Dragon Glove Right Ar.15 for 105,000 gold.
+Slot 4: 1 of item #358 for 10,000,000 gold.
+Slot 5: 1 of item #357 for 8,499,000 gold.
+Slot 6: 1 of item Superior Healer Ring for 19,799,999 gold.
+Slot 7: 1 of item #154 for 120,000 gold.
+Slot 8: 1 of item Dragon Boots Ar.22 for 124,999 gold.
+Slot 9: 1 of item Dragon Boots for 94,999 gold.
+Slot 10: 1 of item Dragon Boots for 94,999 gold.
+Slot 11: 1 of item Dragon Boots for 94,999 gold.
+Slot 12: 1 of item Dragon Glove Right for 79,999 gold.
+Slot 13: 1 of item Shaman Wand Atk.39 for 179,999 gold.
+Player name: 'Hsaaaa' of level 43 has the id of #9718048 for this session, is not in a guild, and is at coordinates 129, 273.
+Player Store:
+Slot 1: 1 of item Minotaur Glove Right Ar.15 for 150,000 gold.
+Slot 2: 1 of item Minotaur Slayer Atk.42 for 350,000 gold.
+Slot 3: 1 of item #343 for 245,000 gold.
+Slot 4: 1 of item Shaman Wand Atk.39 for 245,000 gold.
+Slot 5: 1 of item Dragon Hat Ar.9 for 250,000 gold.
+Slot 6: 1 of item Dragon Helmet Ar.30 for 450,000 gold.
+Slot 7: 1 of item Minotaur Robe Ar.16 for 2,000,000 gold.
+Slot 8: 1 of item Dragon Robe for 300,000 gold.
+Slot 9: 1 of item #160 for 350,000 gold.
+Slot 10: 1 of item Minotaur Armor for 350,000 gold.
+Slot 11: 1 of item Minotaur Robe Ar.15 for 500,000 gold.
+Slot 12: 1 of item Dragon Legs Ar.37 for 250,000 gold.
+Slot 13: 1 of item #433 for 325,000 gold.
+Slot 14: 1 of item Lizard Hat Ar.8 for 215,000 gold.
+Slot 15: 1 of item Lizard Robe Ar.14 for 225,000 gold.
+Slot 16: 1 of item Lizard Glove Left Ar.14 for 299,000 gold.
+Slot 17: 1 of item #230 for 200,000 gold.
+Slot 18: 1 of item #334 for 450,000 gold.
+Slot 19: 1 of item Minotaur Backpack for 900,000 gold.
+Slot 20: 1 of item Battle Shield Ar.42 for 205,000 gold.
+Slot 21: 1 of item #123 for 145,000 gold.
+Slot 22: 1 of item Vampire's Key for 145,000 gold.
+Slot 23: 1 of item Recovery Glove Left (Blue) for 2,000,000 gold.
+Slot 24: 1 of item Recovery Glove Left (Purple) for 7,000,000 gold.
+Slot 25: 1 of item Frozen Robe Ar.17 for 599,000 gold.
+Player name: 'Shop Matador' of level 63 has the id of #9731242 for this session, is in the guild 'Dark Assacins', and is at coordinates 125, 275.
+Player Store:
+Slot 1: 1 of item Healer Glove Left (Purple) for 5,000,000 gold.
+Slot 2: 1 of item Healer Boots (Purple) for 6,000,000 gold.
+Slot 3: 1 of item Recovery Glove Left (Blue) for 2,500,000 gold.
+Slot 4: 1 of item Frozen Light Armor Ar.26 for 15,000,000 gold.
+Slot 5: 1 of item Recovery Boots (Purple) for 8,000,000 gold.
+Slot 6: 1 of item Recovery Glove Left (Purple) for 7,000,000 gold.
+Slot 7: 1 of item Frozen Light Armor Ar.25 for 1,150,000 gold.
+Slot 8: 1 of item Frozen Light Armor Ar.25 for 1,150,000 gold.
+Slot 9: 1 of item Frozen Glove Right Ar.17 for 700,000 gold.
+Slot 10: 300 of item Diamonds for 5,000,000 gold.
+Slot 11: 1 of item Frozen Glove Right Ar.17 for 700,000 gold.
+Slot 12: 1 of item Frozen Armor Ar.50 for 2,992,000 gold.
+Slot 13: 1 of item #278 for 2,992,000 gold.
+Slot 14: 1 of item Frozen Helmet Ar.33 for 2,092,000 gold.
+Slot 15: 1 of item Frozen Glove Left Ar.17 for 700,000 gold.
+Slot 16: 1 of item Frozen Robe Ar.17 for 599,000 gold.
+Slot 17: 1 of item Frozen Robe Ar.17 for 599,000 gold.
+Slot 18: 1 of item Frozen Legs for 400,000 gold.
+Slot 19: 1 of item Green Backpack Ca.60 for 400,000 gold.
+Slot 20: 1 of item Minotaur Backpack for 900,000 gold.
+Slot 21: 1 of item #384 for 100,000,000 gold.
+Player name: 'Il Shopzao Il' of level 30 has the id of #10079157 for this session, is in the guild 'Red Demons', and is at coordinates 125, 273.
+Player Store:
+Slot 1: 1 of item Icy Wand Atk.49 for 2,700,000 gold.
+Slot 2: 1 of item Frozen Light Armor Ar.25 for 1,000,000 gold.
+Slot 3: 1 of item #409 for 460,000 gold.
+Slot 4: 1 of item #433 for 500,000 gold.
+Slot 5: 1 of item #454 for 500,000 gold.
+Slot 6: 1 of item Minotaur Glove Right Ar.16 for 280,000 gold.
+Slot 7: 1 of item Minotaur Glove Left Ar.16 for 280,000 gold.
+Slot 8: 1 of item Minotaur Hood Ar.16 for 320,000 gold.
+Slot 9: 1 of item Minotaur Belt Ar.23 for 300,000 gold.
+Slot 10: 1 of item Dragon Robe Ar.15 for 500,000 gold.
+Slot 11: 1 of item Minotaur Armor Ar.44 for 700,000 gold.
+Slot 12: 1 of item Minotaur Light Armor Ar.22 for 700,000 gold.
+Slot 13: 1 of item Minotaur Light Armor Ar.22 for 700,000 gold.
+Slot 14: 1 of item Green Backpack Ca.60 for 300,000 gold.
+Slot 15: 1 of item Steel Legs for 150,000 gold.
+Slot 16: 1 of item Steel Light Armor Ar.15 for 140,000 gold.
+Slot 17: 1 of item Steel Glove Left for 150,000 gold.
+Slot 18: 1 of item Steel Glove Left for 150,000 gold.
+Slot 19: 1 of item Steel Glove Right for 150,000 gold.
+Slot 20: 1 of item Steel Boots for 150,000 gold.
+Slot 21: 1 of item Steel Boots for 150,000 gold.
+Slot 22: 1 of item Steel Belt for 150,000 gold.
+Slot 23: 1 of item Steel Belt for 150,000 gold.
+Slot 24: 1 of item Drow Robe for 100,000 gold.
+Slot 25: 1 of item Drow Hat for 100,000 gold.
+Slot 26: 1 of item Drow Hood for 140,000 gold.
+Slot 27: 1 of item Drow Hood for 140,000 gold.
+Slot 28: 1 of item Assassin's Key for 1,000,000 gold.
+Player name: 'Shop Misteryoso' of level 26 has the id of #10270766 for this session, is in the guild 'Merchants Family', and is at coordinates 120, 271.
+Player Store:
+Slot 1: 1 of item Dragon Helmet Ar.30 for 450,000 gold.
+Slot 2: 1 of item Dragon Helmet Ar.30 for 450,000 gold.
+Slot 3: 1 of item Dragon Legs Ar.39 for 500,000 gold.
+Slot 4: 1 of item Dragon Legs Ar.39 for 500,000 gold.
+Slot 5: 1 of item Dragon Light Armor Ar.22 for 550,000 gold.
+Slot 6: 1 of item Lizard Light Armor Ar.20 for 150,000 gold.
+Slot 7: 1 of item Green Backpack Ca.60 for 300,000 gold.
+Slot 8: 1 of item Green Backpack Ca.60 for 300,000 gold.
+Slot 9: 1 of item Royal Priest Wand Atk.34 for 120,000 gold.
+Slot 10: 1 of item Royal Priest Wand Atk.34 for 120,000 gold.
+Slot 11: 1 of item Frozen Glove Right Ar.17 for 650,000 gold.
+Slot 12: 100 of item Diamonds for 1,450,000 gold.
+Slot 13: 100 of item Diamonds for 1,450,000 gold.
+Slot 14: 1 of item Drow's Key for 200,000 gold.
+Slot 15: 1 of item Assassin's Key for 500,000 gold.
+Player name: 'Techugo Do Mel' of level 210 has the id of #10939554 for this session, is not in a guild, and is at coordinates 129, 274.
+Player Store:
+Slot 1: 1 of item Superior Healer Necklace for 39,000,000 gold.
+Slot 2: 1 of item Superior Recovery Necklace for 45,000,000 gold.
+Slot 3: 1 of item Healer Backpack for 21,000,000 gold.
+Slot 4: 1 of item Recovery Glove Left (Gold) for 9,900,000 gold.
+Slot 5: 1 of item Frozen Hood Ar.18 for 4,500,000 gold.
+Slot 6: 1 of item Distance Ring for 2,500,000 gold.
+Slot 7: 1 of item Icy Wand Atk.49 for 2,500,000 gold.
+Slot 8: 1 of item Minotaur Light Armor for 200,000 gold.
+Slot 9: 1 of item Steel Helmet for 50,000 gold.
+Slot 10: 1 of item Steel Glove Right for 50,000 gold.
+Slot 11: 1 of item Dragon Hat Ar.9 for 250,000 gold.
+Slot 12: 1 of item Dragon Hat Ar.9 for 250,000 gold.
+Slot 13: 1 of item Lizard Robe Ar.14 for 180,000 gold.
+Slot 14: 1 of item Lizard Hat Ar.8 for 180,000 gold.
+Slot 15: 1 of item Lizard Hat Ar.8 for 180,000 gold.
+Slot 16: 1 of item Lizard Hat Ar.8 for 180,000 gold.
+Slot 17: 1 of item Lizard Hood Ar.14 for 180,000 gold.
+Slot 18: 1 of item Lizard Robe Ar.14 for 180,000 gold.
+Slot 19: 1 of item Lizard Robe Ar.14 for 180,000 gold.
+Slot 20: 1 of item Shaman Wand Atk.39 for 200,000 gold.
+Slot 21: 1 of item Shaman Wand Atk.39 for 200,000 gold.
+Slot 22: 1 of item Shaman Wand Atk.39 for 200,000 gold.
+Slot 23: 1 of item Shaman Wand Atk.39 for 200,000 gold.
+Slot 24: 1 of item Shaman Wand Atk.39 for 200,000 gold.
+Slot 25: 1 of item Shaman Wand Atk.39 for 200,000 gold.
+Slot 26: 1 of item Lizard Bow Atk.39 for 200,000 gold.
+Slot 27: 1 of item Lizard Bow Atk.39 for 200,000 gold.
+Slot 28: 1 of item Lizard Bow Atk.39 for 200,000 gold.
+Slot 29: 1 of item Lizard Bow Atk.39 for 200,000 gold.
+Slot 30: 1 of item Lizard Bow Atk.39 for 200,000 gold.
+Slot 31: 1 of item Lizard's Key for 500,000 gold.
+Player name: 'Broken Heart Sz' of level 408 has the id of #11327723 for this session, is in the guild 'True Kurwaq', and is at coordinates 129, 275.
+Player Store:
+Slot 1: 700 of item Diamonds for 9,990,000 gold.
+Slot 2: 700 of item Diamonds for 9,990,000 gold.
+Slot 3: 1 of item Melee Ring for 3,490,000 gold.
+Slot 4: 1 of item Frozen Backpack for 6,790,000 gold.
+Slot 5: 1 of item Icy Shield Ar.56 for 4,990,000 gold.
+Slot 6: 1 of item Icy Shield Ar.56 for 4,990,000 gold.
+Slot 7: 1 of item Frozen Hat Ar.10 for 2,690,000 gold.
+Slot 8: 1 of item Frozen Robe Ar.18 for 3,990,000 gold.
+Slot 9: 1 of item Frozen Glove Right Ar.17 for 590,000 gold.
+Slot 10: 1 of item Frozen Hood for 290,000 gold.
+Slot 11: 1 of item #398 for 4,990,000 gold.
+Slot 12: 1 of item Green Backpack Ca.60 for 250,000 gold.
+Slot 13: 1 of item Lizard Legs Ar.34 for 250,000 gold.
+Slot 14: 1 of item Lizard Legs Ar.34 for 250,000 gold.
+Slot 15: 1 of item Lizard Belt Ar.20 for 250,000 gold.
+Slot 16: 1 of item Blue Backpack for 50,000 gold.
+Slot 17: 1 of item Healer Backpack for 20,500,000 gold.
+Player name: 'Srity' of level 11 has the id of #11450634 for this session, is not in a guild, and is at coordinates 125, 271.
+Player Store:
+Slot 1: 1 of item Destination Scroll for 75,000 gold.
+Slot 2: 1 of item Destination Scroll for 75,000 gold.
+Slot 3: 1 of item Destination Scroll for 75,000 gold.
+Slot 4: 1 of item Destination Scroll for 75,000 gold.
+Slot 5: 1 of item Destination Scroll for 75,000 gold.
+Slot 6: 1 of item Destination Scroll for 75,000 gold.
+Slot 7: 1 of item Destination Scroll for 75,000 gold.
+Slot 8: 1 of item Destination Scroll for 75,000 gold.
+Slot 9: 1 of item Destination Scroll for 75,000 gold.
+Player name: 'Android Ix' of level 23 has the id of #11524723 for this session, is not in a guild, and is at coordinates 125, 272.
+Player Store:
+Slot 1: 5 of item Diamonds for 70,000 gold.
+Slot 2: 5 of item Diamonds for 70,000 gold.
+Slot 3: 5 of item Diamonds for 70,000 gold.
+Slot 4: 5 of item Diamonds for 70,000 gold.
+Slot 5: 5 of item Diamonds for 70,000 gold.
+Slot 6: 5 of item Diamonds for 70,000 gold.
+Slot 7: 5 of item Diamonds for 70,000 gold.
+Slot 8: 5 of item Diamonds for 70,000 gold.
+Player name: 'Belk Kirito' of level 10 has the id of #11601236 for this session, is not in a guild, and is at coordinates 127, 272.
+Player Store:
+Slot 1: 1 of item #125 for 189,000 gold.
+Slot 2: 1 of item Drow's Key for 189,000 gold.
+Slot 3: 1 of item Drow's Key for 189,000 gold.
+Slot 4: 1 of item Drow's Key for 199,000 gold.
+Slot 5: 1 of item Lizard Bow Atk.39 for 209,000 gold.
+Slot 6: 1 of item Lizard Hood Ar.14 for 199,000 gold.
+Slot 7: 1 of item #125 for 209,000 gold.
+Slot 8: 1 of item Dragon Light Armor Ar.22 for 700,000 gold.
+Slot 9: 1 of item Drow's Key for 199,000 gold.
+Slot 10: 1 of item Lizard Bow Atk.39 for 209,000 gold.
+Player name: 'Froid Ganjaman' of level 319 has the id of #11621770 for this session, is not in a guild, and is at coordinates 125, 274.
+Player Store:
+Slot 1: 1 of item Town Scroll for 1,190,000 gold.
+Slot 2: 1 of item Steel Belt for 69,000 gold.
+Slot 3: 1 of item Steel Belt for 69,000 gold.
+Slot 4: 1 of item Steel Belt for 69,000 gold.
+Slot 5: 1 of item Drow Robe for 69,000 gold.
+Slot 6: 1 of item Drow Robe for 69,000 gold.
+Slot 7: 1 of item Drow Hat for 69,000 gold.
+Slot 8: 1 of item #123 for 111,000 gold.
+Slot 9: 1 of item Steel Legs for 69,000 gold.
+Slot 10: 1 of item Steel Legs for 69,000 gold.
+Slot 11: 1 of item Steel Legs for 69,000 gold.
+Slot 12: 1 of item Steel Light Armor Ar.15 for 69,000 gold.
+Slot 13: 1 of item Steel Light Armor Ar.15 for 69,000 gold.
+Slot 14: 1 of item Steel Light Armor Ar.15 for 69,000 gold.
+Slot 15: 1 of item Steel Glove Right for 69,000 gold.
+Slot 16: 1 of item #85 for 49,000 gold.
+Slot 17: 1 of item Lizard Bow Atk.39 for 190,000 gold.
+Slot 18: 1 of item Lizard Bow Atk.39 for 190,000 gold.
+Slot 19: 1 of item Shaman Wand Atk.39 for 169,000 gold.
+Slot 20: 1 of item Dragon Hat Ar.9 for 190,000 gold.
+Slot 21: 1 of item Healer Glove Right (Blue) for 1,190,000 gold.
+Slot 22: 1 of item Healer Glove Right (Blue) for 1,190,000 gold.
+Slot 23: 1 of item Healer Boots (Blue) for 1,690,000 gold.
+Slot 24: 1 of item #339 for 290,000 gold.
+Slot 25: 1 of item Vampire's Key for 119,000 gold.
+Slot 26: 1 of item Frozen Legs for 390,000 gold.
+Slot 27: 1 of item Icy Bow Atk.49 for 4,790,000 gold.
+Slot 28: 1 of item Frozen Robe Ar.18 for 3,890,000 gold.
+Slot 29: 1 of item Magic Ring for 1,690,000 gold.
+Slot 30: 1 of item Magic Ring for 1,690,000 gold.
+Slot 31: 1 of item Defense Ring for 1,690,000 gold.
+Slot 32: 1 of item #134 for 7,490,000 gold.
+Slot 33: 1 of item Superior Distance Ring for 7,790,000 gold.
+Slot 34: 1 of item Superior Distance Ring for 7,690,000 gold.
+Slot 35: 1 of item Superior Melee Ring for 13,690,000 gold.
+Slot 36: 1 of item Melee Necklace for 27,900,000 gold.
+Player name: 'Lizzy Chan Op' of level 54 has the id of #11624481 for this session, is in the guild 'Very Important Player', and is at coordinates 121, 271.
+Player Store:
+Slot 1: 1 of item #286 for 12,250,000 gold.
+Slot 2: 1 of item Death Charm for 599,000 gold.
+Slot 3: 1 of item Death Charm for 599,000 gold.
+Slot 4: 1 of item Death Charm for 599,000 gold.
+Slot 5: 1 of item Death Charm for 599,000 gold.
+Slot 6: 1 of item Death Charm for 599,000 gold.
+Slot 7: 1 of item Death Charm for 599,000 gold.
+Slot 8: 1 of item Dragon Boots for 95,000 gold.
+Slot 9: 1 of item Dragon Boots for 95,000 gold.
+Slot 10: 1 of item Dragon Boots for 95,000 gold.
+Slot 11: 1 of item Dragon Belt for 85,000 gold.
+Slot 12: 1 of item Dragon Belt for 85,000 gold.
+Slot 13: 1 of item Dragon Belt for 85,000 gold.
+Slot 14: 1 of item Dragon Belt for 85,000 gold.
+Slot 15: 1 of item Dragon Belt for 85,000 gold.
+Slot 16: 1 of item Dragon Belt for 85,000 gold.
+Slot 17: 1 of item Dragon Belt for 85,000 gold.
+Slot 18: 1 of item Dragon Belt for 85,000 gold.
+Slot 19: 1 of item Dragon Belt for 85,000 gold.
+Slot 20: 1 of item Dragon Belt for 85,000 gold.
+Slot 21: 1 of item Dragon Belt for 85,000 gold.
+Slot 22: 1 of item Dragon Belt for 85,000 gold.
+Slot 23: 1 of item Dragon Belt for 85,000 gold.
+Slot 24: 1 of item Dragon Belt for 85,000 gold.
+Slot 25: 1 of item Dragon Belt for 85,000 gold.
+Slot 26: 1 of item Dragon Belt for 85,000 gold.
+Slot 27: 1 of item Dragon Belt for 85,000 gold.
+Slot 28: 1 of item Dragon Belt for 85,000 gold.
+Slot 29: 1 of item Dragon Belt for 85,000 gold.
+Slot 30: 1 of item Dragon Belt for 85,000 gold.
+Slot 31: 1 of item Dragon Belt for 85,000 gold.
+Slot 32: 1 of item Dragon Belt for 85,000 gold.
+Slot 33: 1 of item Frozen Backpack for 6,900,000 gold.
+Player name: 'Major Lazzer' of level 36 has the id of #11641043 for this session, is not in a guild, and is at coordinates 122, 273.
+Player Store:
+Slot 1: 1 of item Drow's Key for 198,000 gold.
+Slot 2: 1 of item Melee Ring for 3,900,000 gold.
+Slot 3: 1 of item Lizard's Key for 499,000 gold.
+Slot 4: 1 of item #457 for 16,700,000 gold.
+Slot 5: 1 of item #113 for 119,000,000 gold.
+Slot 6: 1 of item Lizard Legs Ar.34 for 300,000 gold.
+Slot 7: 1 of item Frozen Helmet Ar.33 for 2,200,000 gold.
+Slot 8: 1 of item #278 for 3,200,000 gold.
+Slot 9: 1 of item Lizard Boots Ar.20 for 249,000 gold.
+Slot 10: 1 of item Lizard Helmet Ar.26 for 249,000 gold.
+Slot 11: 1 of item Minotaur Backpack for 790,000 gold.
+Slot 12: 1 of item Dragon Legs Ar.39 for 490,000 gold.
+Slot 13: 1 of item #285 for 8,800,000 gold.
+Slot 14: 1 of item Frozen Glove Left Ar.18 for 8,800,000 gold.
+Slot 15: 1 of item Lizard Armor Ar.40 for 249,000 gold.
+Slot 16: 1 of item Lizard Light Armor Ar.20 for 239,000 gold.
+Slot 17: 1 of item Broadsword Atk.34 for 169,000 gold.
+Slot 18: 1 of item Dragon Helmet Ar.30 for 430,000 gold.
+Slot 19: 1 of item Lizard Glove Right Ar.14 for 249,000 gold.
+Slot 20: 1 of item Lizard Glove Left Ar.14 for 249,000 gold.
+Player name: 'El Compa' of level 110 has the id of #11705698 for this session, is not in a guild, and is at coordinates 124, 273.
+Player Store:
+Slot 1: 1 of item Lizard Legs Ar.34 for 389,999 gold.
+Slot 2: 1 of item Lizard Light Armor Ar.20 for 350,000 gold.
+Slot 3: 1 of item Lizard Bow Atk.39 for 210,000 gold.
+Slot 4: 1 of item Minotaur Backpack Ca.66 for 1,699,999 gold.
+Slot 5: 1 of item Lizard Hood Ar.14 for 249,999 gold.
+Slot 6: 1 of item Lizard Robe Ar.14 for 249,999 gold.
+Slot 7: 1 of item Lizard Belt Ar.20 for 349,999 gold.
+Slot 8: 1 of item Lizard Armor Ar.40 for 389,999 gold.
+Slot 9: 1 of item Vampire's Key for 149,999 gold.
+Slot 10: 1 of item Recovery Legs (Gold) for 64,999,999 gold.
+Slot 11: 1 of item #383 for 39,999,999 gold.
+Slot 12: 1 of item #398 for 9,899,999 gold.
+Slot 13: 1 of item Recovery Ring for 3,999,999 gold.
+Slot 14: 1 of item Recovery Glove Right (Purple) for 4,999,999 gold.
+Slot 15: 1 of item Recovery Glove Left (Purple) for 4,999,999 gold.
+Slot 16: 1 of item #191 for 3,999,999 gold.
+Slot 17: 1 of item Frozen Legs for 399,999 gold.
+Slot 18: 1 of item Lizard Bow Atk.39 for 210,000 gold.
+Slot 19: 1 of item Lizard Bow Atk.39 for 210,000 gold.
+Slot 20: 1 of item Lizard Bow Atk.39 for 210,000 gold.
+Slot 21: 1 of item Battle Shield Ar.42 for 199,999 gold.
+Slot 22: 1 of item Battle Shield Ar.42 for 199,999 gold.
+Slot 23: 1 of item Minotaur Armor Ar.44 for 849,999 gold.
+Slot 24: 1 of item Minotaur Light Armor Ar.22 for 729,999 gold.
+Slot 25: 1 of item Lizard Light Armor Ar.19 for 180,000 gold.
+Slot 26: 1 of item Icy Bow Atk.47 for 650,000 gold.
+Slot 27: 1 of item Lizard Legs Ar.34 for 389,999 gold.
+Slot 28: 1 of item Life Pendant for 99,999 gold.
+Slot 29: 1 of item Life Pendant for 99,999 gold.
+Slot 30: 5 of item Diamonds for 99,999 gold.
+Slot 31: 5 of item Diamonds for 99,999 gold.
+Slot 32: 5 of item Diamonds for 99,999 gold.
+Slot 33: 5 of item Diamonds for 99,999 gold.
+Slot 34: 5 of item Diamonds for 99,999 gold.
+Slot 35: 5 of item Diamonds for 99,999 gold.
+Slot 36: 5 of item Diamonds for 99,999 gold.
+Slot 37: 5 of item Diamonds for 99,999 gold.
+Player name: 'Bank Crazy' of level 50 has the id of #11799979 for this session, is in the guild 'Guild Crazy', and is at coordinates 123, 273.
+Player Store:
+Slot 1: 1 of item Recovery Glove Left (Blue) for 2,000,000 gold.
+Slot 2: 1 of item #397 for 4,000,000 gold.
+Slot 3: 1 of item Icy Bow Atk.49 for 9,400,000 gold.
+Slot 4: 1 of item Icy Shield Ar.55 for 1,600,000 gold.
+Slot 5: 1 of item Icy Wand Atk.47 for 1,200,000 gold.
+Slot 6: 1 of item Dragon Hood Ar.15 for 260,000 gold.
+Slot 7: 1 of item #252 for 275,000 gold.
+Slot 8: 1 of item Minotaur Slayer Atk.42 for 450,000 gold.
+Slot 9: 1 of item Lizard Robe Ar.13 for 175,000 gold.
+Slot 10: 1 of item Lizard Robe Ar.13 for 175,000 gold.
+Slot 11: 1 of item Lizard Robe Ar.13 for 175,000 gold.
+Slot 12: 1 of item Frozen Hat for 590,000 gold.
+Slot 13: 1 of item Frozen Light Armor for 1,190,000 gold.
+Slot 14: 1 of item #196 for 1,290,000 gold.
+Slot 15: 1 of item #196 for 1,290,000 gold.
+Slot 16: 1 of item Dragon Backpack for 2,420,000 gold.
+Slot 17: 1 of item Dragon Backpack for 2,420,000 gold.
+Slot 18: 1 of item Dragon Backpack for 2,420,000 gold.
+Slot 19: 1 of item #151 for 360,000 gold.
+Slot 20: 1 of item Dragon Hat for 260,000 gold.
+Slot 21: 1 of item Dragon Robe for 480,000 gold.
+Slot 22: 1 of item Dragon Robe for 480,000 gold.
+Slot 23: 1 of item Dragon Robe for 480,000 gold.
+Slot 24: 1 of item #156 for 220,000 gold.
+Slot 25: 1 of item #156 for 220,000 gold.
+Slot 26: 1 of item Dragon Belt for 225,000 gold.
+Slot 27: 1 of item #407 for 360,000 gold.
+Slot 28: 1 of item #410 for 260,000 gold.
+Slot 29: 1 of item #410 for 260,000 gold.
+Slot 30: 1 of item Minotaur Armor for 680,000 gold.
+Slot 31: 1 of item Minotaur Light Armor for 580,000 gold.
+Slot 32: 1 of item Minotaur Robe for 480,000 gold.
+Slot 33: 1 of item Minotaur Glove Right for 220,000 gold.
+Slot 34: 1 of item Minotaur Glove Left for 220,000 gold.
+Slot 35: 1 of item Gargoyle Light Armor for 175,000 gold.
+Slot 36: 1 of item Gargoyle Robe for 175,000 gold.
+Slot 37: 1 of item Lizard Light Armor for 175,000 gold.
+Slot 38: 1 of item #91 for 150,000 gold.
+Slot 39: 1 of item Magic Ring for 2,800,000 gold.
+Slot 40: 1 of item Defense Ring for 2,800,000 gold.
+Player name: 'Arqueiro Da Paz' of level 92 has the id of #11825729 for this session, is not in a guild, and is at coordinates 123, 271.
+Player Store:
+Slot 1: 1 of item Green Backpack for 230,000 gold.
+Slot 2: 1 of item Green Backpack for 230,000 gold.
+Slot 3: 1 of item Green Backpack for 230,000 gold.
+Slot 4: 1 of item Lizard Hat for 80,000 gold.
+Slot 5: 1 of item Lizard Legs for 70,000 gold.
+Slot 6: 1 of item Lizard Light Armor for 70,000 gold.
+Slot 7: 1 of item #88 for 70,000 gold.
+Slot 8: 1 of item #86 for 80,000 gold.
+Slot 9: 1 of item #232 for 90,000 gold.
+Player name: 'Yo Proplem' of level 126 has the id of #11830151 for this session, is not in a guild, and is at coordinates 122, 275.
+Player Store:
+Slot 1: 1 of item #156 for 98,000 gold.
+Slot 2: 1 of item Steel Belt for 49,000 gold.
+Slot 3: 1 of item #85 for 49,000 gold.
+Slot 4: 100 of item Diamonds for 1,398,000 gold.
+Slot 5: 1 of item Battle Shield Ar.42 for 149,000 gold.
+Slot 6: 1 of item Lizard Hat for 98,000 gold.
+Slot 7: 1 of item Drow's Key for 129,000 gold.
+Slot 8: 1 of item Drow Hood for 29,000 gold.
+Slot 9: 1 of item Green Backpack for 98,000 gold.
+Slot 10: 1 of item Drow Hat for 29,000 gold.
+Slot 11: 1 of item Drow Robe for 29,000 gold.
+Slot 12: 1 of item Steel Legs for 49,000 gold.
+Slot 13: 1 of item Steel Boots for 29,000 gold.
+Slot 14: 1 of item Blue Backpack for 29,000 gold.
+Slot 15: 1 of item #123 for 49,000 gold.
+Slot 16: 1 of item Soul Pendant for 198,000 gold.
+Slot 17: 1 of item #13 for 9,000 gold.
+Slot 18: 1 of item Steel Glove Right for 49,000 gold.
+Slot 19: 1 of item Steel Glove Left for 49,000 gold.
+Slot 20: 1 of item Town Scroll Lv.150 for 9,000 gold.
+Player name: 'Degeritydp' of level 104 has the id of #11839723 for this session, is in the guild 'The Merchants Guild', and is at coordinates 124, 270.
+Player Store:
+Slot 1: 1 of item #8 for 10,000 gold.
+Slot 2: 1 of item Soldier Light Armor for 10,000 gold.
+Slot 3: 1 of item Soldier Robe for 10,000 gold.
+Slot 4: 1 of item #7 for 5,000 gold.
+Slot 5: 100 of item Diamonds for 1,400,000 gold.
+Slot 6: 1 of item Diamonds for 14,000 gold.
+Slot 7: 1 of item Diamonds for 14,000 gold.
+Slot 8: 1 of item Diamonds for 14,000 gold.
+Slot 9: 1 of item Diamonds for 14,000 gold.
+Slot 10: 1 of item Diamonds for 14,000 gold.
+Slot 11: 1 of item Diamonds for 14,000 gold.
+Slot 12: 1 of item Diamonds for 14,000 gold.
+Slot 13: 1 of item Diamonds for 14,000 gold.
+Slot 14: 1 of item Diamonds for 14,000 gold.
+Slot 15: 1 of item Life Pendant for 15,000 gold.
+Slot 16: 1 of item Life Pendant for 15,000 gold.
+Slot 17: 1 of item Green Backpack Ca.60 for 285,000 gold.
+Player name: 'Demonriizer Ykz' of level 512 has the id of #11845368 for this session, is in the guild 'Yakuza', and is at coordinates 128, 274.
+Player Store:
+Slot 1: 1 of item Dragon Shield Ar.50 for 300,000 gold.
+Slot 2: 1 of item Dragon Robe Ar.16 for 1,800,000 gold.
+Slot 3: 1 of item Dragon Slayer Atk.44 for 800,000 gold.
+Slot 4: 1 of item Dragon Slayer Atk.44 for 800,000 gold.
+Slot 5: 1 of item Dragon Legs Ar.39 for 400,000 gold.
+Slot 6: 1 of item Dragon Hood Ar.16 for 700,000 gold.
+Slot 7: 1 of item Dragon Glove Left Ar.16 for 210,000 gold.
+Slot 8: 1 of item Dragon Wand Atk.44 for 700,000 gold.
+Slot 9: 1 of item Dragon Wand Atk.44 for 600,000 gold.
+Slot 10: 1 of item Dragon Belt Ar.23 for 200,000 gold.
+Player name: 'Reset Pl' of level 75 has the id of #11846530 for this session, is not in a guild, and is at coordinates 128, 275.
+Player Store:
+Slot 1: 1 of item Lizard Glove Left Ar.14 for 230,000 gold.
+Slot 2: 1 of item Drow's Key for 140,000 gold.
+Slot 3: 1 of item Lizard Glove Right Ar.14 for 230,000 gold.
+Slot 4: 1 of item Shaman Wand Atk.39 for 150,000 gold.
+Slot 5: 1 of item #252 for 120,000 gold.
+Slot 6: 1 of item Lizard Belt Ar.20 for 230,000 gold.
+Slot 7: 1 of item Vampire's Key for 80,000 gold.
+Slot 8: 1 of item Lizard Legs Ar.34 for 290,000 gold.
+Slot 9: 1 of item Dragon Belt Ar.23 for 230,000 gold.
+Slot 10: 1 of item Lizard Slayer Atk.39 for 200,000 gold.
+Slot 11: 1 of item Dragon Legs Ar.39 for 500,000 gold.
+Slot 12: 1 of item Lizard's Key for 440,000 gold.
+Slot 13: 1 of item Lizard's Key for 440,000 gold.
+Slot 14: 1 of item #232 for 120,000 gold.
+Slot 15: 1 of item Dragon Belt Ar.23 for 230,000 gold.
+Slot 16: 1 of item Battle Shield Ar.42 for 160,000 gold.
+Slot 17: 1 of item Lizard Bow Atk.39 for 180,000 gold.
+Slot 18: 1 of item Lizard Slayer Atk.37 for 110,000 gold.
+Slot 19: 1 of item Green Backpack Ca.58 for 150,000 gold.
+Player name: 'Moraes Of Low' of level 305 has the id of #11833694 for this session, is in the guild 'True Kurwaq', and is at coordinates 127, 274.
+Player Store:
+Slot 1: 1 of item Recovery Glove Left (Blue) for 2,000,000 gold.
+Slot 2: 1 of item #397 for 2,500,000 gold.
+Player name: 'Lord Of Luck' of level 257 has the id of #11811562 for this session, is not in a guild, and is at coordinates 127, 275.
+Player Store:
+Slot 1: 1 of item #463 for 17,000,000 gold.
+Slot 2: 1 of item Death Charm for 510,000 gold.
+Slot 3: 1 of item Death Charm for 510,000 gold.
+Slot 4: 5 of item Destination Scroll for 310,000 gold.
+Slot 5: 5 of item Destination Scroll for 310,000 gold.
+Slot 6: 5 of item Destination Scroll for 310,000 gold.
+Slot 7: 1 of item #373 for 29,900,000 gold.
+Slot 8: 1 of item #401 for 29,900,000 gold.
+Slot 9: 1 of item Minotaur Backpack Ca.68 for 3,200,000 gold.
+Slot 10: 500 of item Diamonds for 6,400,000 gold.
+Player name: 'Luizgamersi' of level 109 has the id of #11848251 for this session, is not in a guild, and is at coordinates 126, 272.
+Player Store:
+Slot 1: 1 of item Lizard's Key for 500,000 gold.
+Slot 2: 1 of item Shaman Wand Atk.39 for 200,000 gold.
+Slot 3: 1 of item Green Backpack Ca.60 for 280,000 gold.
+Slot 4: 1 of item #123 for 50,000 gold.
+Slot 5: 1 of item #123 for 50,000 gold.
+Slot 6: 1 of item Blue Backpack for 50,000 gold.
+Slot 7: 1 of item #91 for 80,000 gold.
+Slot 8: 1 of item #87 for 80,000 gold.
+Slot 9: 1 of item Green Backpack for 80,000 gold.
+Slot 10: 1 of item Shaman Wand Atk.39 for 60,000 gold.
+Slot 11: 1 of item Steel Glove Left for 50,000 gold.
+Slot 12: 1 of item #84 for 40,000 gold.
+Slot 13: 1 of item #123 for 50,000 gold.
+Slot 14: 1 of item Shaman Wand Atk.39 for 60,000 gold.
+Slot 15: 1 of item Lizard Legs for 80,000 gold.
+Slot 16: 1 of item Lizard Legs for 80,000 gold.
+Slot 17: 1 of item Lizard Hood for 80,000 gold.
+Slot 18: 1 of item Lizard Hat for 80,000 gold.
+Slot 19: 1 of item #86 for 80,000 gold.
+Slot 20: 1 of item Lizard Light Armor for 80,000 gold.
+Slot 21: 1 of item #87 for 80,000 gold.
+Slot 22: 1 of item Blue Backpack for 50,000 gold.
+Slot 23: 1 of item Blue Backpack for 50,000 gold.
+Slot 24: 1 of item Blue Backpack for 50,000 gold.
+Slot 25: 1 of item Lizard Light Armor Ar.19 for 100,000 gold.
+Slot 26: 1 of item #91 for 80,000 gold.
+Slot 27: 1 of item Blue Backpack for 50,000 gold.
+Slot 28: 1 of item Lizard Hat for 80,000 gold.
+Slot 29: 1 of item Lizard Hat for 80,000 gold.
+Slot 30: 1 of item #86 for 80,000 gold.
+Slot 31: 1 of item Shaman Wand Atk.37 for 60,000 gold.
+Slot 32: 1 of item Shaman Wand Atk.37 for 60,000 gold.
+Player name: 'Krahs' of level 34 has the id of #11850176 for this session, is not in a guild, and is at coordinates 122, 272.
+Player Store:
+Slot 1: 1 of item Destination Scroll for 65,000 gold.
+Slot 2: 1 of item Destination Scroll for 65,000 gold.
+Player name: 'Iso Meris' of level 176 has the id of #11842475 for this session, is in the guild 'God Of Speed', and is at coordinates 123, 270.
+Player Store:
+Slot 1: 700 of item Diamonds for 9,999,999 gold.
+Slot 2: 70 of item Diamonds for 999,999 gold.
+Slot 3: 70 of item Diamonds for 999,999 gold.
+Slot 4: 70 of item Diamonds for 999,999 gold.
+Slot 5: 1 of item Minotaur Backpack Ca.66 for 1,175,000 gold.
+Slot 6: 1 of item Healer Glove Left (Blue) for 999,999 gold.
+Slot 7: 91 of item Diamonds for 900,000,000 gold.
+Player name: 'Wait Cash' of level 300 has the id of #11850787 for this session, is not in a guild, and is at coordinates 124, 272.
+Player Store:
+Slot 1: 1 of item Diamonds for 15,000 gold.
+Slot 2: 1 of item Diamonds for 150,000 gold.
+Slot 3: 1 of item Diamonds for 15,000 gold.
+Slot 4: 1 of item Diamonds for 15,000 gold.
+Slot 5: 1 of item Diamonds for 15,000 gold.
+Slot 6: 1 of item Diamonds for 15,000 gold.
+Slot 7: 1 of item Healer Glove Right (Blue) for 1,000,000 gold.
+Slot 8: 1 of item Diamonds for 15,000 gold.
+Slot 9: 1 of item Diamonds for 15,000 gold.
+Slot 10: 1 of item Dragon Backpack for 900,100 gold.
+Player name: 'Asiaaaapl' of level 202 has the id of #11817056 for this session, is not in a guild, and is at coordinates 122, 272.
+Player Store:
+Slot 1: 1 of item #292 for 199,000,000 gold.
+Slot 2: 1 of item Bow Atk.19 for 12,000,000 gold.
+Slot 3: 1 of item Spiked Ring for 26,999,000 gold.
+Slot 4: 1 of item #400 for 20,999,000 gold.
+Slot 5: 1 of item Superior Defense Necklace for 75,000,000 gold.
+Slot 6: 1 of item Superior Magic Necklace for 75,999,000 gold.
+Slot 7: 1 of item Frozen Backpack Ca.76 for 21,999,000 gold.
+Slot 8: 1 of item #462 for 16,000,000 gold.
+Slot 9: 1 of item Frozen Helmet Ar.34 for 14,999,000 gold.
+Player name: 'Xzaphod' of level 387 has the id of #11851970 for this session, is in the guild 'Unreal', and is at coordinates 127, 273.
+Player Store:
+Slot 1: 1 of item Assassin's Key for 100,000,000 gold.
+Slot 2: 1 of item Vampire's Key for 100,000,000 gold.
+Slot 3: 1 of item Drow's Key for 100,000,000 gold.
+Slot 4: 1 of item Lizard's Key for 100,000,000 gold.
+Slot 5: 1 of item Gargoyle's Key for 100,000,000 gold.
+Player name: 'Zz Subaru Zz' of level 47 has the id of #11851974 for this session, is in the guild 'Aneves Family', and is at coordinates 123, 274.
+Player Store:
+Slot 1: 150 of item Diamonds for 2,200,000 gold.
+Slot 2: 150 of item Diamonds for 2,200,000 gold.
+Slot 3: 150 of item Diamonds for 2,200,000 gold.
+Player name: 'Small Shopee' of level 3 has the id of #11849369 for this session, is not in a guild, and is at coordinates 126, 273.
+Player Store:
+Slot 1: 1 of item Lizard Glove Right Ar.14 for 190,000 gold.
+Slot 2: 1 of item Lizard Glove Left Ar.14 for 190,000 gold.
+Slot 3: 1 of item Lizard Armor Ar.40 for 200,000 gold.
+Slot 4: 1 of item Lizard Robe Ar.14 for 100,000 gold.
+Slot 5: 1 of item Lizard Boots Ar.20 for 200,000 gold.
+Slot 6: 1 of item Dragon Slayer Atk.44 for 800,000 gold.
+Slot 7: 1 of item Minotaur Armor Ar.44 for 400,000 gold.
+Player name: 'Dbrzozad' of level 67 has the id of #11850237 for this session, is not in a guild, and is at coordinates 122, 274.
+Player Store:
+Slot 1: 1 of item Green Backpack Ca.58 for 120,000 gold.
+Slot 2: 1 of item Town Scroll Lv.150 for 12,000 gold.
+Slot 3: 1 of item Drow's Key for 110,000 gold.
+Slot 4: 1 of item Drow Bow Atk.32 for 20,000 gold.
+Slot 5: 1 of item Life Pendant for 15,000 gold.
+Slot 6: 1 of item Drow's Key for 111,111 gold.
+Slot 7: 1 of item Life Pendant for 15,000 gold.
+Slot 8: 1 of item Town Scroll Lv.150 for 7,000 gold.
+Slot 9: 1 of item Lizard's Key for 370,000 gold.
+Player name: 'Pablo Sad Otaku' of level 135 has the id of #11851484 for this session, is not in a guild, and is at coordinates 126, 271.
+Player Store:
+Slot 1: 1 of item Town Scroll Lv.150 for 100,000 gold.
+Player name: 'Eterna Farmer' of level 80 has the id of #11852519 for this session, is not in a guild, and is at coordinates 121, 275.
+Player Store:
+Slot 1: 1 of item Healer Boots (Blue) for 2,250,000 gold.
+Slot 2: 1 of item Lizard Glove Right Ar.14 for 250,000 gold.
+Slot 3: 1 of item Lizard Glove Left Ar.14 for 250,000 gold.
+Slot 4: 1 of item Lizard Hood Ar.14 for 200,000 gold.
+Slot 5: 1 of item #125 for 90,000 gold.
+Slot 6: 1 of item Dragon Belt Ar.23 for 250,000 gold.
+Slot 7: 1 of item Dragon Hood Ar.16 for 270,000 gold.
+Slot 8: 1 of item Lizard Hat Ar.8 for 130,000 gold.
+Slot 9: 1 of item Minotaur Glove Left Ar.16 for 240,000 gold.
+Slot 10: 1 of item Dragon Helmet Ar.29 for 200,000 gold.
+Player name: 'Ll Gm Wax Ll' of level 450 has the id of #11847384 for this session, is in the guild 'Il Horde Il', and is at coordinates 126, 275.
+Player Store:
+Slot 1: 1 of item Frozen Robe Ar.17 for 400,000 gold.
+Slot 2: 1 of item Healer Glove Right (Purple) for 3,900,000 gold.
+Slot 3: 1 of item #406 for 20,000,000 gold.
+Slot 4: 1 of item Recovery Glove Left (Gold) for 9,500,000 gold.
+Slot 5: 1 of item #399 for 19,000,000 gold.
+Slot 6: 1 of item Recovery Boots (Blue) for 1,900,000 gold.
+Slot 7: 1 of item Recovery Helmet (Purple) for 25,000,000 gold.
+Slot 8: 1 of item #383 for 25,000,000 gold.
+Player name: 'Il Duduuh Sz Il' of level 219 has the id of #11852172 for this session, is in the guild 'The Kara', and is at coordinates 128, 272. Player has nothing in their store. Player name: 'Super Marten' of level 295 has the id of #11846310 for this session, is in the guild 'Il Horde Il', and is at coordinates 128, 273.
+Player Store:
+Slot 1: 1 of item Frozen Hat Ar.10 for 2,700,000 gold.
+Slot 2: 1 of item Lizard Hood Ar.14 for 130,000 gold.
+Slot 3: 1 of item Lizard's Key for 410,000 gold.
+Slot 4: 10 of item Diamonds for 128,000 gold.
+Slot 5: 10 of item Diamonds for 128,000 gold.
+Slot 6: 10 of item Diamonds for 128,000 gold.
+Slot 7: 1 of item Dragon Robe Ar.15 for 340,000 gold.
+Slot 8: 1 of item Dragon Glove Left Ar.16 for 200,000 gold.
+Slot 9: 1 of item Defense Ring for 1,500,000 gold.
+Slot 10: 1 of item Melee Ring for 3,300,000 gold.
+Slot 11: 1 of item Lizard Bow Atk.39 for 185,000 gold.
+Slot 12: 1 of item Lizard Light Armor Ar.20 for 185,000 gold.
+Slot 13: 1 of item Lizard Light Armor Ar.20 for 185,000 gold.
+Slot 14: 1 of item Lizard Light Armor Ar.20 for 185,000 gold.
+Slot 15: 1 of item Dragon Helmet Ar.29 for 125,000 gold.
+Player name: 'Broken Shop' of level 10 has the id of #11852922 for this session, is not in a guild, and is at coordinates 128, 272. Player has nothing in their store. Player name: 'Thumorenito' of level 355 has the id of #11780804 for this session, is in the guild 'Brotherhood Rule Us', and is at coordinates 123, 272.
+Player Store:
+Slot 1: 1 of item Superior Defense Ring for 6,500,000 gold.
+Slot 2: 1 of item Diamonds for 13,000 gold.
+Slot 3: 1 of item Diamonds for 13,000 gold.
+Slot 4: 1 of item Diamonds for 13,000 gold.
+Slot 5: 1 of item Diamonds for 13,000 gold.
+Slot 6: 1 of item Diamonds for 13,000 gold.
+Slot 7: 1 of item Diamonds for 13,000 gold.
+Slot 8: 1 of item Diamonds for 13,000 gold.
+Slot 9: 1 of item Diamonds for 13,000 gold.
+Slot 10: 1 of item Diamonds for 13,000 gold.
+Player name: 'Thons' of level 151 has the id of #11846242 for this session, is not in a guild, and is at coordinates 127, 272. Player has nothing in their store. Player name: 'Pineapple Chunk' of level 12 has the id of #6563901 for this session, is not in a guild, and is at coordinates 130, 273.
+Player Store:
+Slot 1: 1 of item Lizard Hood Ar.14 for 248,000 gold.
+Slot 2: 1 of item Frozen Hood Ar.18 for 5,942,000 gold.
+Slot 3: 1 of item Lizard Hat Ar.8 for 198,000 gold.
+Slot 4: 1 of item Lizard Belt Ar.20 for 328,000 gold.
+Slot 5: 1 of item Lizard Robe Ar.14 for 198,000 gold.
+Slot 6: 1 of item Dragon Robe Ar.15 for 725,000 gold.
+Slot 7: 1 of item Frozen Robe Ar.17 for 722,000 gold.
+Slot 8: 1 of item Icy Shield Ar.56 for 5,082,000 gold.
+Slot 9: 1 of item Lizard Boots Ar.20 for 348,000 gold.
+Slot 10: 1 of item Frozen Boots Ar.26 for 21,942,000 gold.
+Slot 11: 1 of item Lizard Glove Right Ar.14 for 298,000 gold.
+Slot 12: 1 of item Dragon Glove Right Ar.15 for 2,165,000 gold.
+Slot 13: 1 of item Frozen Glove Left Ar.18 for 8,942,000 gold.
+Slot 14: 1 of item Frozen Armor Ar.52 for 28,422,000 gold.
+Slot 15: 1 of item Frozen Light Armor Ar.26 for 13,142,000 gold.
+Slot 16: 1 of item Life Pendant for 74,000 gold.
+Slot 17: 1 of item Soul Pendant for 264,000 gold.
+Slot 18: 1 of item Spiked Ring for 42,000,000 gold.
+Player name: 'Brutalit Shop' of level 65 has the id of #10710185 for this session, is in the guild 'Guild Crazy', and is at coordinates 132, 271.
+Player Store:
+Slot 1: 1 of item #445 for 5,500,275 gold.
+Slot 2: 1 of item Life Pendant for 250,045 gold.
+Slot 3: 1 of item #409 for 2,600,260 gold.
+Slot 4: 1 of item Minotaur Backpack for 1,640,064 gold.
+Slot 5: 1 of item Minotaur Hood Ar.16 for 2,600,260 gold.
+Slot 6: 1 of item Gargoyle Slayer Atk.39 for 1,750,175 gold.
+Slot 7: 1 of item Soul Pendant for 1,000,045 gold.
+Slot 8: 1 of item #334 for 1,600,060 gold.
+Slot 9: 1 of item #304 for 1,600,160 gold.
+Slot 10: 1 of item #454 for 5,500,275 gold.
+Slot 11: 1 of item Minotaur Glove Right Ar.16 for 2,500,250 gold.
+Slot 12: 1 of item Minotaur Armor Ar.44 for 2,750,275 gold.
+Slot 13: 1 of item Minotaur Glove Left Ar.16 for 2,500,250 gold.
+Slot 14: 1 of item Minotaur Light Armor Ar.22 for 2,750,275 gold.
+Slot 15: 1 of item #340 for 1,750,175 gold.
+Slot 16: 1 of item #313 for 1,750,175 gold.
+Slot 17: 1 of item #448 for 5,500,275 gold.
+Slot 18: 1 of item Life Ring for 500,020 gold.
+Slot 19: 1 of item #430 for 2,750,275 gold.
+Slot 20: 1 of item Minotaur Belt Ar.23 for 2,750,275 gold.
+Slot 21: 1 of item #415 for 2,600,260 gold.
+Slot 22: 1 of item #343 for 1,750,175 gold.
+Slot 23: 1 of item Soul Ring for 500,020 gold.
+Slot 24: 1 of item #307 for 1,600,160 gold.
+Slot 25: 1 of item #451 for 5,500,275 gold.
+Slot 26: 1 of item Melee Ring for 4,500,005 gold.
+Slot 27: 1 of item #433 for 2,500,250 gold.
+Slot 28: 1 of item Defense Ring for 3,000,005 gold.
+Slot 29: 1 of item Minotaur Robe Ar.15 for 2,750,275 gold.
+Slot 30: 1 of item #346 for 1,750,175 gold.
+Slot 31: 1 of item Distance Ring for 3,500,005 gold.
+Slot 32: 1 of item Gargoyle Boots Ar.20 for 1,500,150 gold.
+Slot 33: 1 of item Magic Ring for 3,000,005 gold.
+Slot 34: 1 of item Gargoyle Robe Ar.14 for 1,750,175 gold.
+Player name: 'Hi Give Me' of level 17 has the id of #10785588 for this session, is not in a guild, and is at coordinates 131, 275.
+Player Store:
+Slot 1: 1 of item Frozen Legs for 390,000 gold.
+Slot 2: 1 of item Frozen Legs for 390,000 gold.
+Slot 3: 1 of item Frozen Legs for 390,000 gold.
+Slot 4: 1 of item Dragon Hood Ar.16 for 300,000 gold.
+Slot 5: 1 of item Dragon Hat Ar.9 for 220,000 gold.
+Slot 6: 1 of item Minotaur Light Armor Ar.22 for 550,000 gold.
+Slot 7: 1 of item Dragon Legs Ar.37 for 200,000 gold.
+Slot 8: 1 of item Dragon Hood Ar.15 for 150,000 gold.
+Slot 9: 1 of item Dragon Hood Ar.15 for 150,000 gold.
+Slot 10: 1 of item Dragon Hood Ar.15 for 150,000 gold.
+Slot 11: 1 of item Dragon Hood Ar.15 for 150,000 gold.
+Slot 12: 1 of item Dragon Glove Right Ar.15 for 150,000 gold.
+Slot 13: 1 of item Dragon Glove Left Ar.15 for 150,000 gold.
+Slot 14: 1 of item Dragon Glove Right Ar.15 for 150,000 gold.
+Slot 15: 1 of item Dragon Glove Left Ar.15 for 150,000 gold.
+Slot 16: 1 of item Dragon Glove Left Ar.15 for 150,000 gold.
+Slot 17: 1 of item Dragon Boots Ar.22 for 150,000 gold.
+Slot 18: 1 of item #160 for 310,000 gold.
+Slot 19: 1 of item Minotaur Robe for 220,000 gold.
+Slot 20: 1 of item #151 for 130,000 gold.
+Slot 21: 1 of item #180 for 110,000 gold.
+Slot 22: 1 of item #410 for 105,000 gold.
+Slot 23: 1 of item #156 for 100,000 gold.
+Slot 24: 1 of item Dragon Glove Right for 100,000 gold.
+Slot 25: 1 of item #156 for 100,000 gold.
+Slot 26: 1 of item Dragon Glove Right for 100,000 gold.
+Slot 27: 1 of item Lizard's Key for 450,000 gold.
+Slot 28: 1 of item Lizard's Key for 450,000 gold.
+Slot 29: 1 of item Lizard's Key for 450,000 gold.
+Slot 30: 1 of item Town Scroll for 2,000,000 gold.
+Player name: 'Aspiral' of level 330 has the id of #10850221 for this session, is not in a guild, and is at coordinates 133, 271.
+Player Store:
+Slot 1: 1 of item Icy Bow Atk.49 for 5,500,000 gold.
+Slot 2: 1 of item Icy Broadsword Atk.49 for 5,500,000 gold.
+Slot 3: 1 of item Icy Wand Atk.49 for 2,500,000 gold.
+Slot 4: 1 of item #276 for 4,150,000 gold.
+Slot 5: 1 of item #278 for 3,000,000 gold.
+Slot 6: 1 of item #278 for 3,000,000 gold.
+Slot 7: 1 of item Frozen Armor Ar.50 for 3,000,000 gold.
+Slot 8: 1 of item Frozen Light Armor Ar.25 for 1,000,000 gold.
+Slot 9: 1 of item Frozen Light Armor Ar.25 for 1,000,000 gold.
+Slot 10: 1 of item Frozen Light Armor Ar.25 for 1,000,000 gold.
+Slot 11: 1 of item Frozen Robe Ar.17 for 550,000 gold.
+Slot 12: 1 of item Frozen Helmet Ar.33 for 1,900,000 gold.
+Slot 13: 1 of item Frozen Helmet Ar.33 for 1,900,000 gold.
+Slot 14: 1 of item #272 for 800,000 gold.
+Slot 15: 1 of item Frozen Glove Right Ar.17 for 650,000 gold.
+Slot 16: 1 of item Frozen Glove Left Ar.17 for 620,000 gold.
+Slot 17: 1 of item Frozen Glove Left Ar.17 for 620,000 gold.
+Slot 18: 1 of item Icy Broadsword Atk.47 for 550,000 gold.
+Slot 19: 1 of item Frozen Robe for 300,000 gold.
+Slot 20: 1 of item Frozen Light Armor for 380,000 gold.
+Slot 21: 1 of item Frozen Hood for 350,000 gold.
+Slot 22: 1 of item Superior Distance Ring for 8,000,000 gold.
+Slot 23: 1 of item Melee Ring for 3,800,000 gold.
+Slot 24: 1 of item Melee Ring for 3,800,000 gold.
+Slot 25: 1 of item Distance Ring for 2,800,000 gold.
+Slot 26: 1 of item Magic Ring for 1,800,000 gold.
+Slot 27: 1 of item Magic Ring for 1,800,000 gold.
+Slot 28: 1 of item Magic Ring for 1,800,000 gold.
+Slot 29: 1 of item Town Scroll for 1,000,000 gold.
+Player name: 'Shop Brutalit' of level 50 has the id of #10987936 for this session, is in the guild 'Guild Crazy', and is at coordinates 131, 271.
+Player Store:
+Slot 1: 1 of item Icy Broadsword Atk.49 for 13,750,375 gold.
+Slot 2: 1 of item Soul Pendant for 1,000,045 gold.
+Slot 3: 1 of item Frozen Helmet Ar.34 for 23,500,350 gold.
+Slot 4: 1 of item Frozen Backpack Ca.76 for 37,600,076 gold.
+Slot 5: 1 of item Frozen Hood Ar.18 for 23,500,350 gold.
+Slot 6: 1 of item Dragon Slayer Atk.44 for 5,500,275 gold.
+Slot 7: 1 of item Life Pendant for 250,045 gold.
+Slot 8: 1 of item Dragon Helmet Ar.30 for 2,600,260 gold.
+Slot 9: 1 of item Dragon Backpack Ca.68 for 6,800,068 gold.
+Slot 10: 1 of item Dragon Hood Ar.16 for 2,600,260 gold.
+Slot 11: 1 of item Icy Shield Ar.56 for 13,750,375 gold.
+Slot 12: 1 of item #285 for 14,000,350 gold.
+Slot 13: 1 of item Frozen Armor Ar.52 for 35,000,350 gold.
+Slot 14: 1 of item Frozen Glove Left Ar.18 for 14,000,350 gold.
+Slot 15: 1 of item Frozen Light Armor Ar.26 for 35,000,350 gold.
+Slot 16: 1 of item Dragon Shield Ar.50 for 5,500,275 gold.
+Slot 17: 1 of item Dragon Glove Right Ar.16 for 2,500,250 gold.
+Slot 18: 1 of item Dragon Armor Ar.46 for 8,250,275 gold.
+Slot 19: 1 of item Dragon Glove Left Ar.16 for 2,500,250 gold.
+Slot 20: 1 of item Dragon Light Armor Ar.23 for 8,250,275 gold.
+Slot 21: 1 of item Icy Bow Atk.49 for 13,750,375 gold.
+Slot 22: 1 of item Soul Ring for 500,020 gold.
+Slot 23: 1 of item Frozen Legs Ar.44 for 35,000,350 gold.
+Slot 24: 1 of item Frozen Belt Ar.26 for 32,500,325 gold.
+Slot 25: 1 of item Frozen Hat Ar.10 for 23,500,350 gold.
+Slot 26: 1 of item Dragon Bow Atk.44 for 5,500,275 gold.
+Slot 27: 1 of item Life Ring for 500,020 gold.
+Slot 28: 1 of item Dragon Legs Ar.39 for 2,750,275 gold.
+Slot 29: 1 of item Dragon Belt Ar.23 for 2,750,275 gold.
+Slot 30: 1 of item Dragon Hat Ar.9 for 2,600,260 gold.
+Slot 31: 1 of item Icy Wand Atk.49 for 13,750,375 gold.
+Slot 32: 1 of item Superior Melee Ring for 16,000,010 gold.
+Slot 33: 1 of item Frozen Boots Ar.26 for 32,500,325 gold.
+Slot 34: 1 of item Superior Defense Ring for 10,000,010 gold.
+Slot 35: 1 of item Frozen Robe Ar.18 for 35,000,350 gold.
+Slot 36: 1 of item Dragon Wand Atk.44 for 5,500,275 gold.
+Slot 37: 1 of item Superior Distance Ring for 14,000,010 gold.
+Slot 38: 1 of item Dragon Boots Ar.23 for 2,500,250 gold.
+Slot 39: 1 of item #134 for 12,000,010 gold.
+Slot 40: 1 of item Dragon Robe Ar.16 for 8,250,275 gold.
+Player name: 'Froid Low' of level 63 has the id of #11071190 for this session, is not in a guild, and is at coordinates 131, 273.
+Player Store:
+Slot 1: 1 of item Steel Glove Right for 69,000 gold.
+Slot 2: 1 of item Steel Belt for 69,000 gold.
+Slot 3: 1 of item Steel Belt for 69,000 gold.
+Slot 4: 1 of item Steel Light Armor Ar.15 for 69,000 gold.
+Slot 5: 1 of item Steel Light Armor Ar.15 for 69,000 gold.
+Slot 6: 1 of item Steel Light Armor Ar.15 for 69,000 gold.
+Slot 7: 1 of item Steel Belt for 69,000 gold.
+Slot 8: 1 of item Frozen Glove Right Ar.17 for 650,000 gold.
+Slot 9: 1 of item Frozen Glove Left Ar.17 for 650,000 gold.
+Slot 10: 1 of item Frozen Glove Right Ar.17 for 650,000 gold.
+Slot 11: 1 of item Frozen Glove Left Ar.17 for 650,000 gold.
+Slot 12: 1 of item Frozen Glove Right Ar.17 for 650,000 gold.
+Slot 13: 1 of item Frozen Glove Left Ar.17 for 650,000 gold.
+Slot 14: 1 of item Frozen Glove Right Ar.17 for 650,000 gold.
+Slot 15: 1 of item Frozen Backpack for 6,790,000 gold.
+Slot 16: 1 of item Frozen Backpack for 6,890,000 gold.
+Slot 17: 1 of item Lizard Light Armor Ar.20 for 219,000 gold.
+Slot 18: 1 of item Town Scroll for 1,000,000 gold.
+Slot 19: 1 of item Magic Ring for 1,790,000 gold.
+Slot 20: 1 of item Vampire's Key for 119,000 gold.
+Slot 21: 1 of item Vampire's Key for 119,000 gold.
+Slot 22: 1 of item Vampire's Key for 119,000 gold.
+Slot 23: 1 of item Vampire's Key for 119,000 gold.
+Slot 24: 1 of item Vampire's Key for 119,000 gold.
+Slot 25: 1 of item Superior Melee Ring for 13,790,000 gold.
+Slot 26: 1 of item Superior Melee Ring for 13,790,000 gold.
+Slot 27: 1 of item Superior Melee Ring for 13,790,000 gold.
+Slot 28: 1 of item Superior Melee Ring for 13,790,000 gold.
+Slot 29: 1 of item Superior Melee Ring for 13,790,000 gold.
+Slot 30: 1 of item Superior Melee Ring for 13,790,000 gold.
+Slot 31: 1 of item #356 for 27,900,000 gold.
+Player name: 'Pastelaoooo' of level 125 has the id of #11281958 for this session, is not in a guild, and is at coordinates 130, 275.
+Player Store:
+Slot 1: 1 of item #278 for 3,000,000 gold.
+Slot 2: 1 of item #278 for 3,000,000 gold.
+Slot 3: 1 of item Frozen Glove Right Ar.17 for 700,000 gold.
+Slot 4: 1 of item Frozen Glove Right Ar.17 for 700,000 gold.
+Slot 5: 1 of item Frozen Glove Left Ar.17 for 650,000 gold.
+Slot 6: 1 of item #280 for 4,150,000 gold.
+Slot 7: 1 of item #276 for 4,150,000 gold.
+Slot 8: 1 of item Frozen Armor Ar.50 for 2,900,000 gold.
+Slot 9: 1 of item Icy Bow Atk.49 for 5,500,000 gold.
+Slot 10: 1 of item Icy Shield Ar.56 for 5,500,000 gold.
+Slot 11: 1 of item Icy Shield Ar.55 for 800,000 gold.
+Slot 12: 1 of item Dragon Backpack Ca.66 for 1,900,000 gold.
+Slot 13: 1 of item Melee Ring for 3,800,000 gold.
+Slot 14: 1 of item Melee Ring for 3,800,000 gold.
+Slot 15: 1 of item Magic Ring for 1,800,000 gold.
+Slot 16: 1 of item #350 for 240,000,000 gold.
+Slot 17: 1 of item Life Ring for 2,000,000 gold.
+Player name: 'Jdksbondoqknxkw' of level 10 has the id of #11354896 for this session, is not in a guild, and is at coordinates 131, 274.
+Player Store:
+Slot 1: 1 of item Superior Healer Ring for 17,500,000 gold.
+Slot 2: 1 of item #113 for 101,000,000 gold.
+Slot 3: 1 of item Superior Defense Necklace for 75,000,000 gold.
+Slot 4: 1 of item Superior Defense Necklace for 75,000,000 gold.
+Slot 5: 1 of item Healer Boots (Purple) for 7,000,000 gold.
+Slot 6: 1 of item Superior Defense Necklace for 75,000,000 gold.
+Slot 7: 1 of item #352 for 12,500,000 gold.
+Slot 8: 1 of item Recovery Glove Right (Purple) for 7,500,000 gold.
+Slot 9: 1 of item Frozen Boots Ar.26 for 19,000,000 gold.
+Slot 10: 1 of item #292 for 145,000,000 gold.
+Player name: 'Omae Wa Mu Shin' of level 22 has the id of #11850634 for this session, is not in a guild, and is at coordinates 132, 273. Player has nothing in their store. Monster 1161 is at 149, 272 and is a Crow Lv.6. Monster 1148 is at 146, 274 and is a Crow Lv.6. Player name: 'Bob Dilan' of level 24 has the id of #7166610 for this session, is not in a guild, and is at coordinates 120, 277.
+Player Store:
+Slot 1: 1 of item Dragon Robe Ar.15 for 500,000 gold.
+Slot 2: 1 of item Dragon Robe Ar.15 for 500,000 gold.
+Slot 3: 1 of item Dragon Robe Ar.15 for 500,000 gold.
+Slot 4: 1 of item Dragon Robe Ar.15 for 500,000 gold.
+Slot 5: 1 of item Frozen Robe Ar.17 for 500,000 gold.
+Slot 6: 1 of item #339 for 299,000 gold.
+Slot 7: 1 of item #339 for 299,000 gold.
+Slot 8: 1 of item #310 for 390,000 gold.
+Slot 9: 1 of item Dragon Legs Ar.37 for 190,000 gold.
+Slot 10: 1 of item Dragon Legs Ar.37 for 190,000 gold.
+Slot 11: 1 of item #160 for 350,000 gold.
+Slot 12: 1 of item Dragon Wand Atk.42 for 290,000 gold.
+Slot 13: 1 of item Dragon Wand Atk.42 for 290,000 gold.
+Slot 14: 1 of item Royal Priest Wand Atk.34 for 99,000 gold.
+Slot 15: 1 of item Royal Priest Wand Atk.34 for 99,000 gold.
+Slot 16: 1 of item Healer Ring for 4,000,000 gold.
+Slot 17: 1 of item Town Scroll for 1,000,000 gold.
+Player name: 'Partalius' of level 10 has the id of #9011714 for this session, is not in a guild, and is at coordinates 121, 277.
+Player Store:
+Slot 1: 1 of item Assassin's Key for 1,000,000 gold.
+Player name: 'Il New Shop Il' of level 15 has the id of #10554814 for this session, is not in a guild, and is at coordinates 127, 277.
+Player Store:
+Slot 1: 1 of item Healer Ring for 4,000,000 gold.
+Slot 2: 1 of item Healer Boots (Blue) for 2,200,000 gold.
+Slot 3: 1 of item Healer Glove Right (Blue) for 1,300,000 gold.
+Slot 4: 1 of item Healer Glove Left (Blue) for 1,300,000 gold.
+Slot 5: 1 of item Recovery Glove Left (Blue) for 1,300,000 gold.
+Slot 6: 1 of item #369 for 2,200,000 gold.
+Slot 7: 1 of item Frozen Hat Ar.10 for 2,800,000 gold.
+Slot 8: 1 of item Frozen Legs for 380,000 gold.
+Slot 9: 1 of item Frozen Legs for 380,000 gold.
+Slot 10: 1 of item Frozen Legs for 2,000,000 gold.
+Slot 11: 1 of item Frozen Light Armor for 400,000 gold.
+Slot 12: 1 of item Frozen Light Armor for 400,000 gold.
+Slot 13: 1 of item Frozen Light Armor for 400,000 gold.
+Slot 14: 1 of item Frozen Light Armor for 400,000 gold.
+Slot 15: 1 of item Frozen Light Armor for 400,000 gold.
+Slot 16: 1 of item Frozen Hat for 300,000 gold.
+Slot 17: 1 of item Frozen Hat for 300,000 gold.
+Slot 18: 1 of item Frozen Hat Ar.9 for 480,000 gold.
+Slot 19: 1 of item Dragon Backpack for 1,000,000 gold.
+Slot 20: 1 of item Minotaur Backpack for 1,000,000 gold.
+Slot 21: 1 of item Minotaur Backpack for 1,000,000 gold.
+Slot 22: 1 of item Minotaur Armor for 380,000 gold.
+Slot 23: 1 of item Minotaur Armor for 380,000 gold.
+Slot 24: 1 of item #152 for 380,000 gold.
+Slot 25: 1 of item #160 for 350,000 gold.
+Slot 26: 1 of item Minotaur Light Armor for 350,000 gold.
+Slot 27: 1 of item Dragon Robe for 280,000 gold.
+Slot 28: 1 of item Frozen Robe for 300,000 gold.
+Player name: 'Thay Dj' of level 158 has the id of #10745928 for this session, is not in a guild, and is at coordinates 129, 277.
+Player Store:
+Slot 1: 1 of item #113 for 102,000,000 gold.
+Slot 2: 1 of item Superior Defense Necklace for 75,000,000 gold.
+Slot 3: 1 of item Superior Defense Ring for 6,700,000 gold.
+Slot 4: 1 of item Defense Necklace for 17,999,000 gold.
+Slot 5: 1 of item #457 for 15,500,000 gold.
+Slot 6: 1 of item Icy Bow Atk.49 for 4,900,000 gold.
+Slot 7: 1 of item #278 for 2,800,000 gold.
+Slot 8: 1 of item Icy Broadsword Atk.47 for 700,000 gold.
+Slot 9: 1 of item Icy Shield Ar.55 for 700,000 gold.
+Slot 10: 1 of item Frozen Glove Left Ar.17 for 700,000 gold.
+Slot 11: 1 of item Frozen Glove Left Ar.17 for 700,000 gold.
+Slot 12: 1 of item Frozen Glove Right Ar.17 for 700,000 gold.
+Slot 13: 1 of item Frozen Light Armor for 390,000 gold.
+Slot 14: 1 of item Dragon Glove Right Ar.16 for 250,000 gold.
+Slot 15: 1 of item Dragon Boots Ar.22 for 150,000 gold.
+Slot 16: 1 of item Dragon Legs Ar.37 for 200,000 gold.
+Slot 17: 1 of item Healer Boots (Gold) for 13,000,000 gold.
+Slot 18: 1 of item Healer Glove Right (Gold) for 9,000,000 gold.
+Slot 19: 1 of item Healer Glove Right (Purple) for 5,000,000 gold.
+Slot 20: 1 of item #355 for 13,000,000 gold.
+Slot 21: 1 of item Healer Boots (Purple) for 6,000,000 gold.
+Slot 22: 1 of item Healer Boots (Purple) for 6,000,000 gold.
+Slot 23: 1 of item #370 for 6,000,000 gold.
+Slot 24: 1 of item Healer Ring for 6,000,000 gold.
+Slot 25: 1 of item Recovery Ring for 6,000,000 gold.
+Slot 26: 1 of item #369 for 4,000,000 gold.
+Player name: 'Mad Ogger' of level 31 has the id of #11415494 for this session, is not in a guild, and is at coordinates 128, 277.
+Player Store:
+Slot 1: 1 of item Healer Boots (Gold) for 11,999,999 gold.
+Slot 2: 1 of item Healer Boots (Gold) for 11,999,999 gold.
+Slot 3: 1 of item Healer Glove Right (Gold) for 8,999,999 gold.
+Slot 4: 1 of item Healer Glove Left (Gold) for 9,999,999 gold.
+Slot 5: 1 of item Healer Glove Left (Gold) for 9,999,999 gold.
+Slot 6: 1 of item #371 for 12,000,000 gold.
+Slot 7: 1 of item Superior Healer Ring for 15,999,999 gold.
+Slot 8: 1 of item #113 for 100,000,000 gold.
+Slot 9: 1 of item #134 for 6,900,000 gold.
+Slot 10: 1 of item #134 for 6,900,000 gold.
+Slot 11: 1 of item Superior Defense Necklace for 75,000,000 gold.
+Slot 12: 1 of item Superior Defense Necklace for 75,000,000 gold.
+Slot 13: 1 of item Superior Distance Necklace for 75,000,000 gold.
+Slot 14: 1 of item Superior Melee Ring for 13,700,000 gold.
+Slot 15: 1 of item Spiked Ring for 35,000,000 gold.
+Slot 16: 1 of item Melee Necklace for 29,000,000 gold.
+Slot 17: 1 of item Magic Necklace for 21,000,000 gold.
+Slot 18: 1 of item Defense Necklace for 19,000,000 gold.
+Slot 19: 1 of item #215 for 19,000,000 gold.
+Slot 20: 1 of item #370 for 3,666,666 gold.
+Slot 21: 1 of item Healer Ring for 4,000,000 gold.
+Slot 22: 1 of item Healer Ring for 4,000,000 gold.
+Slot 23: 1 of item Healer Ring for 4,000,000 gold.
+Slot 24: 1 of item Healer Boots (Purple) for 3,666,666 gold.
+Slot 25: 1 of item #358 for 8,999,999 gold.
+Slot 26: 1 of item #357 for 7,999,999 gold.
+Slot 27: 1 of item Recovery Glove Right (Blue) for 2,000,000 gold.
+Slot 28: 1 of item #130 for 1,000,000 gold.
+Slot 29: 1 of item Frozen Backpack Ca.76 for 22,999,999 gold.
+Slot 30: 1 of item Healer Backpack for 25,000,000 gold.
+Slot 31: 1 of item #286 for 11,999,999 gold.
+Slot 32: 1 of item #351 for 7,999,999 gold.
+Slot 33: 1 of item #351 for 7,999,999 gold.
+Slot 34: 1 of item #379 for 14,900,000 gold.
+Slot 35: 1 of item #354 for 10,000,000 gold.
+Slot 36: 1 of item #382 for 15,000,000 gold.
+Slot 37: 1 of item #382 for 15,000,000 gold.
+Slot 38: 1 of item #382 for 15,000,000 gold.
+Player name: 'Kirito Belk Il' of level 12 has the id of #10870445 for this session, is not in a guild, and is at coordinates 120, 276.
+Player Store:
+Slot 1: 1 of item Lizard's Key for 489,000 gold.
+Slot 2: 1 of item Drow's Key for 199,000 gold.
+Slot 3: 1 of item Lizard Bow Atk.39 for 209,000 gold.
+Slot 4: 1 of item Vampire's Key for 99,000 gold.
+Slot 5: 1 of item Icy Bow Atk.49 for 5,099,000 gold.
+Slot 6: 1 of item Lizard Bow Atk.39 for 209,000 gold.
+Slot 7: 1 of item Lizard Bow Atk.39 for 209,000 gold.
+Slot 8: 1 of item Lizard Bow Atk.39 for 209,000 gold.
+Slot 9: 1 of item Drow's Key for 199,000 gold.
+Slot 10: 1 of item Drow's Key for 199,000 gold.
+Player name: 'Il Anevesz Il' of level 416 has the id of #11809741 for this session, is in the guild 'Aneves Family', and is at coordinates 124, 276.
+Player Store:
+Slot 1: 700 of item Diamonds for 9,800,000 gold.
+Slot 2: 700 of item Diamonds for 9,800,000 gold.
+Slot 3: 1 of item Superior Distance Necklace for 72,990,000 gold.
+Slot 4: 1 of item Superior Recovery Necklace for 44,990,000 gold.
+Slot 5: 1 of item Superior Healer Necklace for 39,900,000 gold.
+Slot 6: 1 of item #374 for 85,000,000 gold.
+Slot 7: 1 of item #359 for 25,000,000 gold.
+Slot 8: 1 of item #402 for 88,000,000 gold.
+Slot 9: 1 of item Recovery Legs (Gold) for 55,000,000 gold.
+Slot 10: 1 of item #406 for 24,990,000 gold.
+Slot 11: 1 of item Healer Glove Right (Gold) for 8,990,000 gold.
+Slot 12: 1 of item Healer Boots (Gold) for 11,990,000 gold.
+Slot 13: 1 of item Healer Glove Left (Gold) for 8,990,000 gold.
+Slot 14: 1 of item Recovery Boots (Gold) for 13,990,000 gold.
+Slot 15: 1 of item Superior Melee Ring for 13,990,000 gold.
+Slot 16: 1 of item Superior Defense Ring for 6,490,000 gold.
+Slot 17: 1 of item Recovery Glove Right (Purple) for 3,390,000 gold.
+Slot 18: 1 of item #403 for 9,900,000 gold.
+Slot 19: 1 of item Recovery Glove Left (Purple) for 3,390,000 gold.
+Slot 20: 1 of item #215 for 17,990,000 gold.
+Slot 21: 1 of item #401 for 31,990,000 gold.
+Slot 22: 1 of item #373 for 31,990,000 gold.
+Slot 23: 1 of item #400 for 22,990,000 gold.
+Slot 24: 1 of item Frozen Backpack for 7,190,000 gold.
+Slot 25: 1 of item Minotaur Backpack Ca.66 for 1,490,000 gold.
+Slot 26: 1 of item Minotaur Backpack for 890,000 gold.
+Slot 27: 1 of item Dragon Backpack for 890,000 gold.
+Slot 28: 1 of item Green Backpack Ca.60 for 249,800 gold.
+Slot 29: 1 of item #340 for 890,000 gold.
+Slot 30: 1 of item #322 for 239,000 gold.
+Slot 31: 1 of item Frozen Armor Ar.52 for 25,990,000 gold.
+Slot 32: 1 of item Frozen Legs Ar.44 for 26,990,000 gold.
+Slot 33: 1 of item Frozen Light Armor Ar.26 for 12,990,000 gold.
+Slot 34: 1 of item Frozen Belt Ar.26 for 25,990,000 gold.
+Slot 35: 1 of item Frozen Glove Left Ar.18 for 8,990,000 gold.
+Slot 36: 1 of item #455 for 14,990,000 gold.
+Slot 37: 1 of item Training Bow Atk.4 for 14,990,000 gold.
+Slot 38: 1 of item #457 for 14,990,000 gold.
+Slot 39: 1 of item #278 for 2,590,000 gold.
+Slot 40: 1 of item Key Ring for 18,990,000 gold.
+Player name: 'Shop Steq' of level 76 has the id of #11812006 for this session, is not in a guild, and is at coordinates 122, 278.
+Player Store:
+Slot 1: 1 of item Minotaur Backpack for 900,000 gold.
+Slot 2: 1 of item Drow's Key for 200,000 gold.
+Slot 3: 1 of item Ring for 10,000 gold.
+Slot 4: 1 of item Life Pendant for 42,500 gold.
+Slot 5: 1 of item Dagger Atk.19 for 12,777,777 gold.
+Slot 6: 1 of item Bow Atk.19 for 11,777,777 gold.
+Slot 7: 1 of item Halloween Potion for 40,000 gold.
+Slot 8: 1 of item Halloween Potion for 40,000 gold.
+Slot 9: 1 of item #125 for 140,000 gold.
+Slot 10: 1 of item Minotaur Backpack Ca.66 for 1,999,999 gold.
+Slot 11: 1 of item #7 for 5,000 gold.
+Slot 12: 1 of item Drow's Key for 200,000 gold.
+Slot 13: 1 of item #51 for 20,000 gold.
+Slot 14: 1 of item Halloween Potion for 40,000 gold.
+Slot 15: 1 of item Drow's Key for 200,000 gold.
+Slot 16: 1 of item #33 for 10,000 gold.
+Slot 17: 1 of item Blue Backpack for 31,000 gold.
+Slot 18: 1 of item #82 for 15,000 gold.
+Slot 19: 1 of item Drow Bow Atk.32 for 40,000 gold.
+Slot 20: 1 of item Vampire's Key for 150,000 gold.
+Slot 21: 1 of item Ring for 10,000 gold.
+Slot 22: 1 of item Gargoyle's Key for 3,500,000 gold.
+Slot 23: 1 of item Dragon Light Armor Ar.23 for 3,999,999 gold.
+Slot 24: 1 of item Soul Pendant for 220,000 gold.
+Slot 25: 1 of item Steel Light Armor Ar.15 for 50,000 gold.
+Slot 26: 1 of item Steel Glove Left for 50,000 gold.
+Slot 27: 1 of item Royal Priest Wand for 20,000 gold.
+Slot 28: 1 of item Drow Hood for 50,000 gold.
+Slot 29: 1 of item #33 for 10,000 gold.
+Slot 30: 1 of item Blue Backpack for 30,000 gold.
+Slot 31: 1 of item Blue Backpack for 30,000 gold.
+Slot 32: 1 of item Drow Hat for 30,000 gold.
+Slot 33: 1 of item #33 for 10,000 gold.
+Slot 34: 1 of item Royal Priest Wand Atk.34 for 140,000 gold.
+Slot 35: 1 of item Steel Boots for 50,000 gold.
+Slot 36: 1 of item Steel Light Armor Ar.15 for 50,000 gold.
+Slot 37: 1 of item Steel Helmet for 50,000 gold.
+Slot 38: 1 of item #47 for 50,000 gold.
+Slot 39: 1 of item Steel Glove Left for 50,000 gold.
+Slot 40: 1 of item #14 for 50,000 gold.
+Player name: 'Farm Do Prime' of level 117 has the id of #11820313 for this session, is not in a guild, and is at coordinates 125, 276.
+Player Store:
+Slot 1: 5 of item Greater Mana Potion for 10,000,000 gold.
+Slot 2: 100 of item Diamonds for 1,300,000 gold.
+Slot 3: 100 of item Diamonds for 1,300,000 gold.
+Slot 4: 20 of item Diamonds for 260,000 gold.
+Player name: 'Il Poff Poff Il' of level 280 has the id of #11835537 for this session, is in the guild 'The Merchants Guild', and is at coordinates 122, 277.
+Player Store:
+Slot 1: 1 of item Frozen Light Armor Ar.25 for 900,000 gold.
+Slot 2: 1 of item Frozen Light Armor for 300,000 gold.
+Slot 3: 1 of item Minotaur Armor Ar.44 for 800,000 gold.
+Slot 4: 1 of item Minotaur Robe for 200,000 gold.
+Slot 5: 1 of item Superior Defense Ring for 7,200,000 gold.
+Slot 6: 1000 of item Diamonds for 12,880,000 gold.
+Slot 7: 1000 of item Diamonds for 12,880,000 gold.
+Slot 8: 1000 of item Diamonds for 12,880,000 gold.
+Slot 9: 1000 of item Diamonds for 12,880,000 gold.
+Slot 10: 1000 of item Diamonds for 12,880,000 gold.
+Slot 11: 1000 of item Diamonds for 12,880,000 gold.
+Slot 12: 1 of item Death Charm for 500,000 gold.
+Slot 13: 1 of item Death Charm for 500,000 gold.
+Slot 14: 1 of item Death Charm for 500,000 gold.
+Slot 15: 1 of item Death Charm for 500,000 gold.
+Slot 16: 1 of item Death Charm for 500,000 gold.
+Slot 17: 1 of item Death Charm for 500,000 gold.
+Slot 18: 1 of item Death Charm for 500,000 gold.
+Slot 19: 1 of item Death Charm for 500,000 gold.
+Slot 20: 1 of item Death Charm for 500,000 gold.
+Slot 21: 1 of item Death Charm for 500,000 gold.
+Slot 22: 1 of item Death Charm for 500,000 gold.
+Slot 23: 1 of item Death Charm for 500,000 gold.
+Slot 24: 1 of item Death Charm for 500,000 gold.
+Slot 25: 1 of item Death Charm for 500,000 gold.
+Slot 26: 1 of item Death Charm for 500,000 gold.
+Slot 27: 1 of item Death Charm for 500,000 gold.
+Slot 28: 1 of item Death Charm for 500,000 gold.
+Slot 29: 1 of item Death Charm for 500,000 gold.
+Slot 30: 1 of item Death Charm for 500,000 gold.
+Player name: 'Premium Discord' of level 200 has the id of #11832162 for this session, is in the guild 'Bank Of Rucoy', and is at coordinates 124, 278.
+Player Store:
+Slot 1: 1 of item #455 for 100,000,000 gold.
+Player name: 'Inks Goods' of level 10 has the id of #11840307 for this session, is in the guild 'The Merchants Guild', and is at coordinates 122, 279.
+Player Store:
+Slot 1: 1 of item #149 for 200,000 gold.
+Slot 2: 1 of item Dragon Hat Ar.8 for 175,000 gold.
+Slot 3: 1 of item Shaman Wand Atk.37 for 100,000 gold.
+Slot 4: 1 of item Green Backpack Ca.58 for 135,000 gold.
+Slot 5: 1 of item Lizard's Key for 390,000 gold.
+Slot 6: 1 of item #340 for 650,000 gold.
+Slot 7: 1 of item Lizard Robe Ar.14 for 125,000 gold.
+Slot 8: 1 of item Lizard Light Armor for 70,000 gold.
+Slot 9: 1 of item Steel Light Armor Ar.15 for 27,000 gold.
+Slot 10: 1 of item Steel Light Armor Ar.15 for 27,000 gold.
+Player name: 'Umnienajtaniej' of level 26 has the id of #11843459 for this session, is not in a guild, and is at coordinates 129, 276.
+Player Store:
+Slot 1: 1 of item Icy Bow for 290,000 gold.
+Slot 2: 1 of item Gargoyle Light Armor for 69,000 gold.
+Slot 3: 1 of item Gargoyle Robe for 69,000 gold.
+Slot 4: 1 of item Iron Bow Atk.29 for 45,000 gold.
+Slot 5: 1 of item Halloween Potion for 33,000 gold.
+Slot 6: 1 of item Minotaur Light Armor for 290,000 gold.
+Slot 7: 1 of item Christmas Candy for 11,000 gold.
+Slot 8: 1 of item #381 for 88,000,000 gold.
+Slot 9: 1 of item #401 for 36,000,000 gold.
+Slot 10: 1 of item #373 for 36,000,000 gold.
+Slot 11: 1 of item #443 for 190,000 gold.
+Slot 12: 1 of item #139 for 180,000 gold.
+Slot 13: 1 of item Lizard Light Armor Ar.19 for 75,000 gold.
+Slot 14: 1 of item Minotaur Hat for 115,000 gold.
+Slot 15: 1 of item Healer Glove Right (Gold) for 8,799,000 gold.
+Player name: 'Yar Rak' of level 200 has the id of #11843967 for this session, is not in a guild, and is at coordinates 126, 277.
+Player Store:
+Slot 1: 700 of item Diamonds for 9,999,700 gold.
+Slot 2: 1 of item #455 for 15,999,004 gold.
+Slot 3: 1 of item Training Bow Atk.4 for 15,999,004 gold.
+Slot 4: 700 of item Diamonds for 9,999,700 gold.
+Slot 5: 1 of item Superior Defense Necklace for 79,999,010 gold.
+Slot 6: 1 of item #384 for 99,999,030 gold.
+Slot 7: 1 of item Recovery Boots (Gold) for 19,999,015 gold.
+Slot 8: 1 of item Recovery Glove Right (Purple) for 3,499,010 gold.
+Slot 9: 1 of item Superior Recovery Necklace for 59,999,010 gold.
+Slot 10: 700 of item Diamonds for 9,999,700 gold.
+Slot 11: 1 of item Death Charm for 599,000 gold.
+Slot 12: 700 of item Diamonds for 9,999,700 gold.
+Slot 13: 1 of item Death Charm for 599,000 gold.
+Slot 14: 350 of item Diamonds for 4,999,350 gold.
+Slot 15: 150 of item Diamonds for 2,200,000 gold.
+Slot 16: 150 of item Diamonds for 2,200,000 gold.
+Slot 17: 150 of item Diamonds for 2,200,000 gold.
+Slot 18: 150 of item Diamonds for 2,200,000 gold.
+Slot 19: 2000 of item Diamonds for 999,000,000 gold.
+Slot 20: 2000 of item Diamonds for 999,000,000 gold.
+Slot 21: 2000 of item Diamonds for 999,000,000 gold.
+Slot 22: 157 of item Diamonds for 157,000,000 gold.
+Slot 23: 1 of item Minotaur Backpack for 799,064 gold.
+Slot 24: 2000 of item Diamonds for 999,000,000 gold.
+Slot 25: 1 of item Dragon Glove Right for 90,000 gold.
+Slot 26: 1 of item #425 for 90,000 gold.
+Slot 27: 1 of item Lizard Hat Ar.8 for 90,000 gold.
+Slot 28: 1 of item #87 for 80,000 gold.
+Slot 29: 1 of item Lizard Boots for 80,000 gold.
+Slot 30: 1 of item #86 for 80,000 gold.
+Slot 31: 1 of item #156 for 90,000 gold.
+Slot 32: 1 of item Lizard Slayer for 50,000 gold.
+Slot 33: 1 of item Green Backpack for 99,000 gold.
+Slot 34: 1 of item #145 for 170,000 gold.
+Slot 35: 1 of item Dragon Boots Ar.22 for 99,000 gold.
+Slot 36: 1 of item #252 for 99,000 gold.
+Slot 37: 1 of item Dragon Belt for 90,000 gold.
+Player name: 'Vt Weedleaf' of level 219 has the id of #11830961 for this session, is not in a guild, and is at coordinates 126, 276.
+Player Store:
+Slot 1: 1 of item Christmas Candy for 7,000 gold.
+Slot 2: 1 of item Christmas Candy for 7,000 gold.
+Slot 3: 1 of item Christmas Candy for 7,000 gold.
+Slot 4: 1 of item Christmas Candy for 7,000 gold.
+Slot 5: 1 of item Christmas Candy for 7,000 gold.
+Slot 6: 1 of item Christmas Candy for 7,000 gold.
+Slot 7: 1 of item Christmas Candy for 7,000 gold.
+Slot 8: 1 of item Christmas Candy for 7,000 gold.
+Slot 9: 1 of item Christmas Candy for 7,000 gold.
+Slot 10: 1 of item Christmas Candy for 7,000 gold.
+Slot 11: 1 of item Christmas Candy for 7,000 gold.
+Slot 12: 1 of item Christmas Candy for 7,000 gold.
+Slot 13: 1 of item Christmas Candy for 7,000 gold.
+Slot 14: 1 of item Dragon Glove Left Ar.16 for 145,000 gold.
+Player name: 'Shopping Dudu' of level 206 has the id of #11850551 for this session, is not in a guild, and is at coordinates 124, 277.
+Player Store:
+Slot 1: 1 of item Minotaur Backpack for 790,000 gold.
+Slot 2: 1 of item #429 for 490,000 gold.
+Slot 3: 1 of item Minotaur Light Armor Ar.22 for 490,000 gold.
+Slot 4: 1 of item Minotaur Robe Ar.15 for 490,000 gold.
+Slot 5: 1 of item Minotaur Light Armor for 290,000 gold.
+Slot 6: 1 of item Minotaur Light Armor for 290,000 gold.
+Slot 7: 1 of item Minotaur Armor for 290,000 gold.
+Slot 8: 1 of item Lizard Light Armor for 90,000 gold.
+Player name: 'Strong Force' of level 417 has the id of #11829506 for this session, is in the guild 'Triaden', and is at coordinates 127, 276.
+Player Store:
+Slot 1: 1 of item Life Pendant for 12,999 gold.
+Slot 2: 1 of item Melee Necklace for 28,000,000 gold.
+Player name: 'Intedfir' of level 81 has the id of #11849908 for this session, is not in a guild, and is at coordinates 122, 276.
+Player Store:
+Slot 1: 10 of item Diamonds for 130,000 gold.
+Slot 2: 10 of item Diamonds for 130,000 gold.
+Slot 3: 10 of item Diamonds for 130,000 gold.
+Player name: 'Next Penta' of level 91 has the id of #11848833 for this session, is not in a guild, and is at coordinates 126, 277.
+Player Store:
+Slot 1: 1 of item Backpack for 2,500 gold.
+Slot 2: 1 of item Backpack for 2,500 gold.
+Slot 3: 1 of item Backpack for 2,500 gold.
+Player name: 'Sr Killer Lol' of level 75 has the id of #11852095 for this session, is in the guild 'Clan Play', and is at coordinates 123, 276.
+Player Store:
+Slot 1: 1 of item #125 for 80,000 gold.
+Slot 2: 1 of item Steel Light Armor Ar.15 for 20,000 gold.
+Slot 3: 1 of item Steel Light Armor Ar.15 for 20,000 gold.
+Slot 4: 1 of item Blue Backpack for 15,000 gold.
+Slot 5: 1 of item Blue Backpack for 15,000 gold.
+Slot 6: 1 of item Blue Backpack for 15,000 gold.
+Slot 7: 1 of item Steel Legs for 20,000 gold.
+Slot 8: 1 of item Drow's Key for 120,000 gold.
+Player name: 'Zosen' of level 317 has the id of #11852147 for this session, is not in a guild, and is at coordinates 123, 277.
+Player Store:
+Slot 1: 1 of item Frozen Robe Ar.17 for 300,000 gold.
+Slot 2: 1 of item Icy Wand Atk.47 for 500,000 gold.
+Slot 3: 1 of item Frozen Robe for 200,000 gold.
+Slot 4: 1 of item Frozen Robe Ar.17 for 300,000 gold.
+Slot 5: 1000 of item Diamonds for 12,880,000 gold.
+Slot 6: 1000 of item Diamonds for 12,880,000 gold.
+Slot 7: 1000 of item Diamonds for 12,880,000 gold.
+Slot 8: 500 of item Diamonds for 6,500,000 gold.
+Slot 9: 500 of item Diamonds for 6,500,000 gold.
+Slot 10: 1 of item Training Bow Atk.4 for 14,880,000 gold.
+Slot 11: 1 of item Superior Defense Necklace for 74,880,000 gold.
+Slot 12: 1 of item #288 for 190,000,000 gold.
+Slot 13: 1 of item Death Charm for 500,000 gold.
+Slot 14: 1 of item Death Charm for 500,000 gold.
+Slot 15: 1 of item Death Charm for 500,000 gold.
+Slot 16: 1 of item Death Charm for 500,000 gold.
+Slot 17: 1 of item Death Charm for 500,000 gold.
+Slot 18: 1 of item Death Charm for 500,000 gold.
+Slot 19: 1 of item Death Charm for 500,000 gold.
+Slot 20: 1 of item Death Charm for 500,000 gold.
+Slot 21: 1 of item Death Charm for 500,000 gold.
+Slot 22: 1 of item Death Charm for 500,000 gold.
+Slot 23: 1 of item Death Charm for 500,000 gold.
+Slot 24: 1 of item Death Charm for 500,000 gold.
+Slot 25: 1 of item Death Charm for 500,000 gold.
+Slot 26: 1 of item Death Charm for 500,000 gold.
+Slot 27: 1 of item Death Charm for 500,000 gold.
+Slot 28: 1 of item Death Charm for 500,000 gold.
+Slot 29: 1 of item Death Charm for 500,000 gold.
+Slot 30: 1 of item Death Charm for 500,000 gold.
+Slot 31: 1 of item Death Charm for 500,000 gold.
+Slot 32: 1 of item Death Charm for 500,000 gold.
+Slot 33: 1 of item Death Charm for 500,000 gold.
+Player name: 'Instict Reaper' of level 100 has the id of #11837333 for this session, is in the guild 'West Night Club', and is at coordinates 126, 276.
+Player Store:
+Slot 1: 1 of item Short Sword Atk.24 for 100,000,000 gold.
+Slot 2: 1 of item Short Sword Atk.24 for 100,000,000 gold.
+Slot 3: 1 of item Drow's Key for 80,000 gold.
+Player name: 'Babrieul' of level 122 has the id of #11850553 for this session, is not in a guild, and is at coordinates 128, 276.
+Player Store:
+Slot 1: 500 of item Arrows for 1,000 gold.
+Slot 2: 500 of item Arrows for 1,000 gold.
+Slot 3: 1 of item Vampire's Key for 160,000 gold.
+Player name: 'Il Psi Drk' of level 149 has the id of #11852383 for this session, is in the guild 'Wooden Bears', and is at coordinates 121, 276. Player has nothing in their store. Player name: 'Snatha Mage' of level 68 has the id of #11838213 for this session, is in the guild 'Astro', and is at coordinates 125, 277. Player has nothing in their store. Player name: 'Adriz Frz' of level 93 has the id of #11850605 for this session, is not in a guild, and is at coordinates 124, 279. Player has nothing in their store. Player name: 'Fcdrift' of level 11 has the id of #10409897 for this session, is not in a guild, and is at coordinates 133, 277.
+Player Store:
+Slot 1: 1 of item Return Scroll for 30,000 gold.
+Slot 2: 5 of item Return Scroll for 150,000 gold.
+Slot 3: 1 of item Return Scroll for 30,000 gold.
+Slot 4: 2 of item Return Scroll for 60,000 gold.
+Slot 5: 1 of item Return Scroll for 30,000 gold.
+Slot 6: 1 of item Return Scroll for 30,000 gold.
+Slot 7: 1 of item Return Scroll for 30,000 gold.
+Slot 8: 1 of item Return Scroll for 30,000 gold.
+Player name: 'Item Shop Here' of level 10 has the id of #11438365 for this session, is in the guild 'Very Important Player', and is at coordinates 131, 277.
+Player Store:
+Slot 1: 1 of item Destination Scroll for 80,000 gold.
+Slot 2: 1 of item Destination Scroll for 80,000 gold.
+Slot 3: 1 of item Destination Scroll for 80,000 gold.
+Slot 4: 1 of item Destination Scroll for 80,000 gold.
+Slot 5: 1 of item Destination Scroll for 80,000 gold.
+Slot 6: 1 of item Destination Scroll for 80,000 gold.
+Slot 7: 1 of item Destination Scroll for 80,000 gold.
+Slot 8: 1 of item Destination Scroll for 80,000 gold.
+Slot 9: 1 of item Destination Scroll for 80,000 gold.
+Slot 10: 1 of item Destination Scroll for 80,000 gold.
+Slot 11: 1 of item Destination Scroll for 80,000 gold.
+Slot 12: 1 of item Destination Scroll for 80,000 gold.
+Slot 13: 1 of item Destination Scroll for 80,000 gold.
+Slot 14: 1 of item Destination Scroll for 80,000 gold.
+Slot 15: 1 of item Destination Scroll for 80,000 gold.
+Slot 16: 1 of item Destination Scroll for 80,000 gold.
+Slot 17: 1 of item Destination Scroll for 80,000 gold.
+Slot 18: 1 of item Destination Scroll for 80,000 gold.
+Slot 19: 1 of item Destination Scroll for 80,000 gold.
+Player name: 'Nickoblue' of level 26 has the id of #11787792 for this session, is not in a guild, and is at coordinates 130, 277.
+Player Store:
+Slot 1: 1 of item Town Scroll Lv.150 for 15,000 gold.
+Slot 2: 1 of item Town Scroll Lv.150 for 15,000 gold.
+Slot 3: 1 of item Town Scroll Lv.150 for 15,000 gold.
+Slot 4: 1 of item Town Scroll Lv.150 for 15,000 gold.
+Slot 5: 1 of item Town Scroll Lv.150 for 15,000 gold.
+Slot 6: 1 of item Town Scroll Lv.150 for 15,000 gold.
+Slot 7: 1 of item Town Scroll Lv.150 for 15,000 gold.
+Slot 8: 1 of item Town Scroll Lv.150 for 15,000 gold.
+Slot 9: 1 of item Town Scroll Lv.150 for 15,000 gold.
+Slot 10: 1 of item Town Scroll Lv.150 for 15,000 gold.
+Player name: 'Divisoria' of level 13 has the id of #10409187 for this session, is not in a guild, and is at coordinates 132, 277.
+Player Store:
+Slot 1: 1 of item Destination Scroll for 75,000 gold.
+Slot 2: 1 of item Destination Scroll for 75,000 gold.
+Slot 3: 1 of item Destination Scroll for 75,000 gold.
+Slot 4: 1 of item Destination Scroll for 75,000 gold.
+Slot 5: 1 of item Destination Scroll for 75,000 gold.
+Slot 6: 1 of item Destination Scroll for 75,000 gold.
+Slot 7: 1 of item Destination Scroll for 75,000 gold.
+Slot 8: 1 of item Destination Scroll for 75,000 gold.
+Slot 9: 1 of item Death Charm for 600,000 gold.
+Slot 10: 1 of item Death Charm for 600,000 gold.
+Player name: 'Sr Kato' of level 299 has the id of #11851919 for this session, is not in a guild, and is at coordinates 130, 276.
+Player Store:
+Slot 1: 1 of item Assassin's Key for 666,000,000 gold.
+Slot 2: 1 of item Vampire's Key for 666,000,000 gold.
+Slot 3: 1 of item Drow's Key for 666,000,000 gold.
+Slot 4: 1 of item Lizard's Key for 666,000,000 gold.
+Slot 5: 1 of item Gargoyle's Key for 666,000,000 gold.

@@ -1,0 +1,451 @@
+#--Updated ToDo List--#
+RucoyTerp
+-Decode mysterious coordinate offset in \x00 payloads
+-Utilize dictionaries on client side as data presents itself
+-Decode login code
+-Implement updating of manager Dict 
+-Implement optional uploading of item/price data to a google spreadsheet
+-Reintegrate with RucoyGui
+-Is the exhaustion warning a \x2f payload?
+-Continue Debugging
+-Is \x03\x02\x04 a timer for sprites to disappear?
+-Merge Client and Server? return 'client'/'server' in front of translation?
+FromServer
+-Implement concatenation of multiple packets (> 1460 bytes)
+RucoyGui
+-Implement Settings button to hold level download/ item&price upload/ custom bot import? / more?
+-Implement manager Dict and pass to rucoyterp and rucoybot
+RucoyAdb
+-Implement more functions? Maybe selling to merchant? etc.?
+RucoyBot
+-Code? or wait for Gerald's?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Server >>>  Monster with ID: 1666 attacks player ID: 3501714 | Rest: \x04\x23\x01\x17\x00\x00\x00\x00\x05\xe0\xa8\xc7\x00\x02\x22\x33\x00\x00\xf9\xc3\x00\x09\x08\x08\x00\x08\x4a\xa7
+Raw    >>>  b'\t\x00\x00\x06\x82\x005n\x92\x04#\x01\x17\x00\x00\x00\x00\x05\xe0\xa8\xc7\x00\x02"3\x00\x00\xf9\xc3\x00\t\x08\x08\x00\x08J\xa7'
+Server >>>  Monster with ID: 1666 attacks player ID: 3501714 | Rest: \x04\x23\x01\x17\x00\x00\x00\x00\x05\xe0\xa8\xc7\x00\x02\x22\x33\x00\x00\xf9\xc3\x00\x09\x08\x08\x00\x08\x4a\xa8
+Raw    >>>  b'\t\x00\x00\x06\x82\x005n\x92\x04#\x01\x17\x00\x00\x00\x00\x05\xe0\xa8\xc7\x00\x02"3\x00\x00\xf9\xc3\x00\t\x08\x08\x00\x08J\xa8'
+Server >>>  Monster with ID: 1666 attacks player ID: 3501714 | Rest: \x04\x23\x01\x17\x00\x00\x00\x00\x05\xe0\xa8\xc7\x00\x02\x22\x33\x00\x00\xf9\xc3\x00\x09\x08\x08\x00\x08\x4a\xa9
+Raw    >>>  b'\t\x00\x00\x06\x82\x005n\x92\x04#\x01\x17\x00\x00\x00\x00\x05\xe0\xa8\xc7\x00\x02"3\x00\x00\xf9\xc3\x00\t\x08\x08\x00\x08J\xa9'
+
+
+# Takeaways #
+
+\x01\x06 - one more byte following and done
+\x01\x04 - two more bytes following and done
+\x01\x01 - if \x00, then x, y and z then done
+		 - if \x01, then x, y, z, 4 unknown bytes, extra byte indicator, and three more unknown bytes
+\x02\x01 - 7 unknown bytes follow in data
+\x03\x02 - if \x01, then monster name id, skip 5 bytes, and x, y, z
+		 - if more continues, let what be the variable to hold the rest
+		 - if what[1:2] doesnt equal b'\x00', then..
+				- if what[:1] == b'\x00', then skip 8+what[4:5]
+				- if what[:1] == b'\x1a', then skip 9+what[4:5]
+
+
+
+					player id			exists?
+Raw    >>>  \x00    \x01\x33\x7c\x10	\x01\x06\x64
+
+					player id 			exists?
+Raw    >>>  \x00    \x01\x33\xde\x5c	\x01\x04\x01\x63
+
+
+Raw    >>>  \x00    \x00\x00\x02\x0a	\x01\x01\x00	\x01\x10\x01\x70\x00
+
+Raw    >>>  \x00    \x00\x00\x01\xb6	\x02\x01\x00	\x00\xff\x01\x74\x00\x06\x64
+
+Raw    >>>  \x00    \x00\x00\x01\x4c	\x03\x02\x01	\x24\x00\x06\x64\x01\x00\x01\x49\x01\x80\x00
+
+Raw    >>>  \x00    \x00\x00\x00\x2d	\x01\x01\x01	\x01\x3d\x01\xc5\x00\x01\x36\x03\x60\x00\x02\x01\x04
+
+\x00\x00\x00\x2d\x01\x01\x01\x01\x3d\x01\xc5\x00\x01\x36\x03\x60\x00\x02\x01\x04
+
+def showobj(whattoshow):
+	try:
+		lastindex = 0
+		returnable = ""
+		if len(whattoshow) <= 8:
+			player_id = int(binascii.hexlify(whattoshow[:4]), 16)
+			return "Player #: {} exists ".format(player_id)
+		while lastindex < len(whattoshow):
+			if whattoshow[lastindex:lastindex+2] == b'\x00\x00':
+				monster_id = int(binascii.hexlify(whattoshow[lastindex:lastindex+4]), 16)
+				if whattoshow[lastindex+4:lastindex+7] == b'\x01\x01\x01':
+					lastindex += 7
+					x_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+					lastindex += 2
+					y_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+					returnable += "Monster #{} moved to {}, {}. ".format(monster_id, x_coord, y_coord)
+					extra = int(binascii.hexlify(whattoshow[lastindex+14:lastindex+15]), 16)
+					lastindex += (12 + extra)
+				elif whattoshow[lastindex+4:lastindex+7] == b'\x01\x01\x00':
+					lastindex += 7
+					x_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+					lastindex += 2
+					y_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+					returnable += "Monster #{} moved to {}, {}. ".format(monster_id, x_coord, y_coord)
+					lastindex += 4
+				elif whattoshow[lastindex+4:lastindex+7] == b'\x02\x01\x00':
+					lastindex += 7
+					x_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+					lastindex += 2
+					y_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+					returnable += "Monster #{} moved to {}, {}. ".format(monster_id, x_coord, y_coord)
+					lastindex += 6
+				elif whattoshow[lastindex+4:lastindex+7] == b'\x03\x02\x01':
+					lastindex += 13
+					x_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+					lastindex += 2
+					y_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+					returnable += "Monster #{} moved to {}, {}. ".format(monster_id, x_coord, y_coord)
+					lastindex += 100
+				elif whattoshow[lastindex+4:lastindex+6] == b'\x01\x06':
+					player_id = int(binascii.hexlify(whattoshow[:4]), 16)
+					return "Player #: {} exists ".format(player_id)
+					lastindex += 7
+				else:
+					return "Idk what the hell happened - {}".format(whattoshow[lastindex+4:lastindex+7])
+			elif whattoshow[lastindex:lastindex+2] == b'\x18\x00':
+				eighteenargs = hpmpupd(lastindex[2:])
+				returnable += "and is at {}".format(eighteenargs)
+				lastindex += 17
+			else: 
+				player_id = int(binascii.hexlify(whattoshow[lastindex:lastindex+4]), 16)
+				if whattoshow[lastindex+4:lastindex+7] == b'\x01\x01\x01':
+					lastindex += 7
+					x_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+					lastindex += 2
+					y_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+					returnable += "Player #{} moved to {}, {}. ".format(player_id, x_coord, y_coord)
+					extra = int(binascii.hexlify(whattoshow[lastindex+7:lastindex+8]), 16)
+					lastindex += (12 + extra)
+				elif whattoshow[lastindex+4:lastindex+7] == b'\x01\x01\x00':
+					lastindex += 7
+					x_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+					lastindex += 2
+					y_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+					returnable += "Player #{} moved to {}, {}. ".format(player_id, x_coord, y_coord)
+					lastindex += 4
+				elif whattoshow[lastindex+4:lastindex+7] == b'\x02\x01\x00':
+					lastindex += 7
+					x_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+					lastindex += 2
+					y_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+					returnable += "Player #{} moved to {}, {}. ".format(player_id, x_coord, y_coord)
+					lastindex += 6
+				elif whattoshow[lastindex+4:lastindex+7] == b'\x03\x02\x01':
+					lastindex += 13
+					x_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+					lastindex += 2
+					y_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+					returnable += "Player #{} moved to {}, {}. ".format(player_id, x_coord, y_coord)
+					lastindex += 100
+				elif whattoshow[lastindex+4:lastindex+6] == b'\x01\x06':
+					player_id = int(binascii.hexlify(whattoshow[:4]), 16)
+					return "Player #: {} exists ".format(player_id)
+					lastindex += 7
+				else:
+					return "Idk what the hell happened - {}".format(whattoshow[lastindex+4:lastindex+7])
+		
+		return returnable
+	except Exception as e:
+		return "An unknown error occured - {}".format(e)
+
+
+
+
+
+
+def showobj(whattoshow):
+	try:
+		lastindex = 0
+		returnable = ""
+		if len(whattoshow) == 7:
+			player_id = int(binascii.hexlify(whattoshow[:4]), 16)
+			mystery = int(binascii.hexlify(whattoshow[4:]), 16)
+			return "Player #: {} exists with {}".format(player_id, mystery)
+		while lastindex < len(whattoshow):
+			if whattoshow[lastindex:lastindex+2] == b'\x00\x00':
+				monster_id = int(binascii.hexlify(whattoshow[lastindex:lastindex+4]), 16)
+				if whattoshow[4:7] == b'\x01\x01\x01':
+					lastindex += 7
+				else:
+					lastindex += 13
+				x_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+				lastindex += 2
+				y_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+				returnable += "Monster #{} moved to {}, {}. ".format(monster_id, x_coord, y_coord)
+				lastindex += 11
+			else: 
+				player_id = int(binascii.hexlify(whattoshow[lastindex:lastindex+4]), 16)
+				if whattoshow[4:7] == b'\x01\x01\x01':
+					lastindex += 7
+				else:
+					lastindex += 13
+				x_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+				lastindex += 2
+				y_coord = int(binascii.hexlify(whattoshow[lastindex:lastindex+2]), 16)
+				returnable += "Player #{} moved to {}, {}. ".format(player_id, x_coord, y_coord)
+				extra = int(binascii.hexlify(whattoshow[lastindex+14:lastindex+15]), 16)
+				lastindex += (17 + extra)
+		
+		return returnable
+	except Exception as e:
+		return "An unknown error occured - {}".format(e)
+
+
+
+	\x01\x10	\x00	\x00\x46\x01\x63\x00\x01\x04\x02
+
+
+
+
+\x00	\x00\x00\x03\xd7	\x01\x01\x01	\x00\x69	\x01\x10	\x00	\x00\x46\x02\x63	\x00	\x04\x02\x04
+\x00	\x00\x00\x03\xc6	\x01\x01\x01	\x00\x66	\x01\x14	\x00	\x00\x46\x00\x63	\x00	\x03\x04\x02
+
+
+
+\x00\x00\x03\xc6	\x01\x01\x01	\x00\x65	\x01\x15	\x00	\x00\x46\x02\x63	\x00	\x01\x03\x04
+\x00\x00\x03\xc6	\x01\x01\x01	\x00\x65	\x01\x15	\x00	\x00\x46\x02\x63	\x00	\x04\x01\x03
+'Monster #966 moved to 101, 277. Monster #966 moved to 101, 277. '
+
+
+
+
+
+
+
+
+
+
+Line 12: 
+\x00    \x00\x00\x01\xb6	\x02\x01\x00	\x00\xff\x01\x74\x00\x06\x64
+Line 13: 
+\x00    \x00\x00\x07\x5d	\x02\x01\x00	\x00\xbb\x01\x6e\x01\x06\x64
+Line 14: 
+\x00    \x00\x00\x07\x72	\x02\x01\x00	\x00\xac\x01\x69\x01\x06\x64
+Line 15: 
+\x00    \x00\x00\x07\x89	\x02\x01\x00	\x00\xa7\x01\x64\x01\x06\x64
+Line 1021: 
+\x00    \x00\x00\x07\x41	\x02\x01\x00	\x00\xc0\x01\x73\x01\x06\x64\x00\x00\x00\x07\x5e\x02\x01\x00\x00\xc0\x01\x6e\x01\x06\x64
+Line 1022: 
+\x00    \x00\x00\x07\x74	\x02\x01\x00	\x00\xb6\x01\x69\x01\x06\x64\x00\x00\x00\x07\x75\x02\x01\x00\x00\xbb\x01\x69\x01\x06\x64
+Line 1023: 
+\x00    \x00\x00\x07\xac	\x02\x01\x00	\x00\x8b\x01\x5b\x01\x06\x64\x00\x00\x00\x07\xc2\x02\x01\x00\x00\x8b\x01\x57\x01\x06\x64
+Line 1178: 
+\x00    \x00\x00\x04\xa0	\x02\x01\x00	\x00\x81\x00\xd8\x00\x06\x64\x00\x00\x00\x04\x92\x02\x01\x00\x00\x85\x00\xdc\x00\x06\x64\x00\x00\x00\x04\xa1\x02\x01\x00\x00\x85\x00\xd8\x00\x06\x64
+Line 1187: 
+\x00    \x00\x00\x08\xf1	\x02\x01\x00	\x00\xb8\x01\x25\x01\x06\x64\x00\x00\x00\x08\xf6\x02\x01\x00\x00\xbd\x01\x23\x01\x06\x64\x00\x00\x00\x08\xf5\x02\x01\x00\x00\xb5\x01\x23\x01\x06\x64
+Line 1393: 
+\x00    \x00\x00\x09\x84	\x02\x01\x00	\x00\x6c\x00\xcb\x01\x06\x64\x00\x00\x00\x09\x7d\x02\x01\x00\x00\x6b\x00\xd0\x01\x06\x64\x00\x00\x00\x09\x78\x02\x01\x00\x00\x68\x00\xd4\x01\x06\x64\x00\x00\x00\x09\x77\x02\x01\x00\x00\x6d\x00\xd7\x01\x06\x64
+Line 1555: 
+\x00    \x00\x00\x04\x7e	\x02\x01\x00	\x00\x71\x00\xe0\x00\x06\x64\x00\x00\x00\x04\x7f\x02\x01\x00\x00\x75\x00\xe0\x00\x06\x64\x00\x00\x00\x04\x80\x02\x01\x00\x00\x79\x00\xe0\x00\x06\x64\x00\x00\x00\x04\x81\x02\x01\x00\x00\x7d\x00\xe0\x00\x06\x64\x00\x00\x00\x04\x82\x02\x01\x00\x00\x81\x00\xe0\x00\x06\x64
+Line 1648: 
+\x00    \x00\x00\x09\x7e	\x02\x01\x01	\x00\x7d\x00\xcf\x01\x00\x78\x03\x62\x02\x04\x04\x02\x04\x02\x06\x64\x00\x00\x00\x09\x7f\x02\x01\x00\x00\x75\x00\xcf\x01\x06\x64\x00\x00\x00\x09\x82\x02\x01\x00\x00\x71\x00\xcd\x01\x06\x64\x00\x00\x00\x09\x85\x02\x01\x00\x00\x75\x00\xca\x01\x06\x64\x00\x00\x00\x09\x80\x02\x01\x00\x00\x88\x00\xce\x01\x06\x64
+
+
+
+
+
+
+
+Raw    >>>  \x00    \x00\x00\x01\x4c	\x03\x02\x01	\x24\x00\x06\x64\x01\x00	\x01\x49	\x01\x80	\x00
+
+Raw    >>>  \x00    \x00\x00\x01\x9b	\x03\x02\x01	\x24\x00\x06\x64\x01\x00	\x01\x42	\x01\x77	\x00
+\x1a\x0e\x01\x00\x01\x01\x42\x01\x77\x00
+
+Raw    >>>  \x00    \x00\x00\x01\xff	\x03\x02\x01	\x0c\x00\x06\x64\x01\x00	\x00\x7e	\x01\x6b	\x00
+\x1a\x0e\x01\x00\x01\x00\x7e\x01\x6b\x00
+
+Raw    >>>  \x00    \x00\x00\x02\xa1	\x03\x02\x01	\x0a\x00\x06\x64\x01\x01	\x00\x73	\x01\x4f	\x00
+\x00\x96\x03\x64\x00\x02\x02\x01
+
+Raw    >>>  \x00    \x00\x00\x03\xf7	\x03\x02\x01	\x03\x00\x06\x64\x01\x01	\x00\xb6	\x01\x08	\x00
+\x00\x68\x02\x64\x00\x04\x04\x01
+
+Raw    >>>  \x00    \x00\x00\x04\x31	\x03\x02\x01	\x06\x00\x06\x64\x01\x00	\x00\x85	\x00\xf8	\x00
+\x1a\x0e\x01\x00\x01\x00\x85\x00\xf8\x00
+
+Raw    >>>  \x00    \x00\x00\x01\xb8	\x03\x02\x01	\x1a\x00\x06\x64\x01\x01	\x01\x16	\x01\x7a	\x00
+\x00\xc8\x02\x64\x03\x02\x02\x02\x04\x04\x04
+
+Raw    >>>  \x00    \x00\x00\x00\x29	\x03\x02\x01	\x2d\x00\x06\x64\x01\x00	\x01\x39	\x01\xcd	\x00
+			\x00	\x00\x00\x00\x27	\x03\x02\x01	\x2d\x00\x06\x64\x01\x01	\x01\x4c	\x01\xcd	\x00
+			\x01\x36\x02\x28\x02\x02\x02\x04\x03\x04
+
+Raw    >>>  \x00    \x00\x00\x01\xfc\x03\x02\x01\x0d\x00\x06\x64\x01\x01\x00\x6e\x01\x6a\x00\x00\xa0\x00\x64\x00\x03\x02\x04\x00\x00\x00\x01\xfc\x01\x01\x01\x00\x6e\x01\x6a\x00\x00\xa0\x00\x62\x00\x03\x02\x04
+
+
+
+
+
+Raw    >>>  \x00	\x00\x0d\x5c\x99	\x08\x02\x00	\x01\x01\x00\x7a\x01\x08\x00\x00\xcf\x02\x64\x16\x02\x02\x02\x02\x02\x02\x02\x03\x03\x03\x02\x03\x02\x03\x02\x03\x02\x03\x02\x03\x03\x03\x04\x04\x04\x04\x02\x00\x06\x44\x0b\x0a\x4b\x69\x79\x61\x68\x20\x53\x6f\x77\x61\x00\x0f\x01\x00\x09\x00\x0b\x0a\x0c\x00\x00\x00\x00\x00\x08\x00\x05\x00\x0a\x00
+b'\x01\x01\x00z\x01\x08\x00\x00\xcf\x02d\x16\x02\x02\x02\x02\x02\x02\x02\x03\x03\x03\x02\x03\x02\x03\x02\x03\x02\x03\x02\x03\x03\x03\x04\x04\x04\x04\x02\x00\x06D\x0b\nKiyah Sowa\x00\x0f\x01\x00\t\x00\x0b\n\x0c\x00\x00\x00\x00\x00\x08\x00\x05\x00\n\x00'
+
+Raw    >>>  \x00    \x01\x33\xe1\xed	\x08\x02\x00	\x01\x01\x00\x7c\x01\x08\x00\x00\xd3\x02\x64\x03\x02\x02\x02\x04\x04\x04\x04\x00\x00\x06\x64\x0b\x00\x00\x17\x01\x00\x09\x00\x00\x08\x0c\x00\x00\x00\x00\x00\x08\x00\x05\x00\x0a\x00
+
+Raw    >>>  \x00	\x00\x5c\x5c\x80	\x08\x02\x00	\x01\x00\x00\x6e\x01\x15\x00\x04\x00\x00\x06\x56\x0b\x09\x41\x6e\x79\x69\x20\x47\x61\x6d\x65\x00\x1e\x01\x00\x09\x00\x0f\x04\x07\x07\x00\x00\x00\x00\x08\x00\x05\x00\x0a\x00
+b'\x00\x00\\\\\x80\x08\x02\x00\x01\x00\x00n\x01\x15\x00\x04\x00\x00\x06V\x0b\tAnyi Game\x00\x1e\x01\x00\t\x00\x0f\x04\x07\x07\x00\x00\x00\x00\x08\x00\x05\x00\n\x00'
+
+
+
+
+
+b'\x00\x00k\xbc\x95\x01\x01\x01\x01O\x01\xa4\x00\x01\xf2\x03^\n\x04\x03\x03\x03\x03\x03\x02\x02\x02\x02\x02\x00\x00
+\x01\x00k\xbc\x95\x0c\x01\x01\x00k\xa7\xba>Ngs Jaeger Fury: but when you skull you always got the excuses\x0c\x01\x01\x00kh\x1f\x19Heavy Hitta War: all gank'
+
+
+\x00	\x00\x6b\xbc\x95	\x01\x01\x01	\x01\x4f	\x01\xa4	\x00	\x01\xf2\x03\x5e	\x0a	\x04\x03\x03
+\x03\x03\x03\x02\x02\x02\x02\x02\x00\x00
+\x01	\x00\x6b\xbc\x95	\x0c\x01\x01\x00\x6b\xa7\xba\x3e\x4e\x67\x73\x20\x4a\x61\x65\x67\x65\x72\x20\x46\x75\x72\x79\x3a\x20\x62\x75\x74\x20\x77\x68\x65\x6e\x20\x79\x6f\x75\x20\x73\x6b\x75\x6c\x6c\x20\x79\x6f\x75\x20\x61\x6c\x77\x61\x79\x73\x20\x67\x6f\x74\x20\x74\x68\x65\x20\x65\x78\x63\x75\x73\x65\x73\x0c\x01\x01\x00\x6b\x68\x1f\x19\x48\x65\x61\x76\x79\x20\x48\x69\x74\x74\x61\x20\x57\x61\x72\x3a\x20\x61\x6c\x6c\x20\x67\x61\x6e\x6b
+
+
+
+
+
+
+
+
+
+
+
+
+Server >>>   |  | b'o\xf2\xda\x01\x05\x00\n\x01\x00h\x00\x04\x00\x01\x86\xa0\x00'
+			show	player_id			store			slots	full	itemid		qty			price				end
+Raw    >>>  \x00	\x00\x6f\xf2\xda	\x01\x05\x00	\x0a	\x01	\x00\x68	\x00\x04	\x00\x01\x86\xa0	\x00
+Server >>>  Direct message from Player ID: 7336666 | Keptron: done
+Raw    >>>  \x0c\x03\x07\x4b\x65\x70\x74\x72\x6f\x6e\x05\x00\x6f\xf2\xda\x0d\x4b\x65\x70\x74\x72\x6f\x6e\x3a\x20\x64\x6f\x6e\x65
+Client >>>  I'm alive
+Raw    >>>  \x00\x01\x05
+Server >>>  Acknowledged
+Raw    >>>  \x08
+Client >>>  Buy 4 item(s) with ID#: 104 for 100000 from player ID#: 7336666's slot number 1
+Raw    >>>  \x00\x0f\x0c\x00\x6f\xf2\xda\x00\x00\x00\x68\x00\x04\x00\x01\x86\xa0
+Server >>>  b"#\x04\x0c\x00\x04\x00\x00\x00\x00@You bought 4 Greater Health Potion for 100000 gold from Keptron.\x00\x00o\xf2\xda\x01\x05\x00\n\x00\x0b\x00\x00\x00\x00\x00\x1f\x91\x19\x00\xfb\x00\xf5\x00\xfd\x00\xff\x01\x01\x01\x03\x01\x05\x00\x84\x00\x86\x00\x8d\x00\x96\x00\x90\x00\x93\x00\x9e\x00@\x00\x17\x00\x03\x01\xf4\x00\x03\x01x\x00i\x00\xc8\x00i\x00\xc8\x00o\x00\xc8\x00o\x00\xc8\x00o\x00\xc5\x00m\x00\x04\x00k\x00\x01\x00j\x00\x01\x01'\x00\x01\x01(\x00\x01\x01)\x00\x01\x01*\x00\x01\x01&\x00\x05\x01]\x00\x01\x01[\x00\x01\x01[\x00\x01\x01\\\x00\x05\x00l\x00\x01\x00i\x00\xb2\x00#\x00\x01\x00h\x00\x04"
+Raw    >>>  \x23\x04	\x0c	\x00\x04\x00\x00\x00\x00
+\x40\x59\x6f\x75\x20\x62\x6f\x75\x67\x68\x74\x20\x34\x20\x47\x72\x65\x61\x74\x65\x72\x20\x48\x65\x61\x6c\x74\x68\x20\x50\x6f\x74\x69\x6f\x6e\x20\x66\x6f\x72\x20\x31\x30\x30\x30\x30\x30\x20\x67\x6f\x6c\x64\x20\x66\x72\x6f\x6d\x20\x4b\x65\x70\x74\x72\x6f\x6e\x2e
+			\x00	\x00\x6f\xf2\xda	\x01\x05\x00	\x0a	\x00	
+			\x0b	\x00\x00\x00\x00	\x00\x1f\x91\x19	\x00\xfb\x00\xf5\x00\xfd\x00\xff\x01\x01\x01\x03\x01\x05\x00\x84\x00\x86\x00\x8d\x00\x96\x00\x90\x00\x93\x00\x9e\x00\x40\x00\x17\x00\x03\x01\xf4\x00\x03\x01\x78\x00\x69\x00\xc8\x00\x69\x00\xc8\x00\x6f\x00\xc8\x00\x6f\x00\xc8\x00\x6f\x00\xc5\x00\x6d\x00\x04\x00\x6b\x00\x01\x00\x6a\x00\x01\x01\x27\x00\x01\x01\x28\x00\x01\x01\x29\x00\x01\x01\x2a\x00\x01\x01\x26\x00\x05\x01\x5d\x00\x01\x01\x5b\x00\x01\x01\x5b\x00\x01\x01\x5c\x00\x05\x00\x6c\x00\x01\x00\x69\x00\xb2\x00\x23\x00\x01\x00\x68\x00\x04
+
+
+
+
+
+
+\x01	\x00\x70\x35\x5b	
+			\x23\x04	\x0b\x00\x00\x00\x00\x00\x1f\x91\x3b\x00\xfb\x00\xf5\x00\xfd\x00\xff\x01\x01\x01\x03\x01\x05\x00\x84\x00\x86\x00\x8d\x00\x96\x00\x90\x00\x93\x00\x9e\x00\x40\x00\x1b\x00\x03\x01\xf4\x00\x03\x01\x78\x00\x69\x00\xc8\x00\x69\x00\xc8\x00\x6f\x00\xc8\x00\x6f\x00\xc8\x00\x6f\x00\xc5\x00\x6d\x00\x04\x00\x6b\x00\x01\x00\x6a\x00\x01\x01\x27\x00\x01\x01\x28\x00\x01\x01\x29\x00\x01\x01\x2a\x00\x01\x01\x26\x00\x05\x01\x5d\x00\x01\x01\x5b\x00\x01\x01\x5b\x00\x01\x01\x5c\x00\x05\x00\x6c\x00\x01\x00\x69\x00\xb2\x00\x23\x00\x01\x00\x68\x00\x04\x00\x23\x00\x01\x00\x23\x00\x01\x00\x23\x00\x01\x00\x23\x00\x01
+
+
+
+
+
+
+#--- To Do List ---#
+'''
+~~~~~~~~~~~~~~~RucoyTerp~~~~~~~~~~~~~~~
+1.	Add while loop to translator with all functions returning translation and a index of succesfully translated bytes.
+2.	Use linux to sort all \x09 and \x23 commands out of finalspurt.txt
+3.	Research \x09, write notes, and write while loop similar to showobj to translate attack commands
+4.	Research \x23, write notes, and write while loop similar to showobj to translate ondeath commands
+5.	Add functions for \x0b (update inventory? occurs after withdrawal/deposit), \x03 (show xp or dmg?), \x17 (update stats)
+6.	Add function for \x15 (can set up stall or not) 
+7. 	Add ranges of monster id's to Player Dict to simplify bot hunting mode.
+8.	Create itemdict function to translate item ids to plain text names
+9.	Add argument to translator so a Rucoy Bot object can be passed.
+10.	Add code to each relevant function to update rucoybot object's values and call rucoybot update()
+11.	Decipher log in packets at least so player id, stats, inventory, etc can be passed to rucoybot
+12.	Turn rucoyterp into a class if possible? Or find way to change modify's target strings (xml/json?)
+~~~~~~~~~~~~~~~Rucoy Bot~~~~~~~~~~~~~~~
+1.	Ensure init function has enough values to be an effective bot
+2.	Add parameters to bot to pass adb bridge reference so commands can be sent to correct emulator
+3.	Add functions for each important client side command- ie. move, attack, special, switch, pickup, etc...
+4.	The command functions should pass the relevant arguments to the adb bridge already provided.
+5.	Add bot logic to update function based on either skill (work with training weapons to increase stats), farming 
+	(prioritize earning gold over stats/xp), or hunting mode (ignore drops, only worry about killing as much as possible)
+~~~~~~~~~~~~~~~AdbBridge~~~~~~~~~~~~~~~
+1.	Set up Adb Bridge class, init function should be passed emulator port and set up adb bridge object
+2.	Set up while main loop to constantly receive messages from processes (this will initialize adbbridge class w/ port)
+3.	Add functions to translate bot commands to adb commands- ie. 'Move -5, 3' to 'adb shell input tap x y'
+4.	Add way for connections to be closed?
+~~~~~~~~~~~~~~~Rucoy GUI~~~~~~~~~~~~~~~
+1.	Parent process of all, first ask for license key. Use licensing library or custom make?
+2.	If license key is already stored on device, verify license key matches device uniq id by asking server
+3.	If computer/app has no internet access, terminate program and explain internet is required.
+4.	After license is verified, open up main GUI 
+5.	From top to bottom, left to right, Rucoy Bot logo, intro/explanation text box, -|-
+	Bot stats (load from previous session - xml/json?),	!|! bot mode buttons (Train Skills, Farm Gold, Monitor, and Hunt 
+	to Level Up) (selected option should be green, other two should be grayed out), attack mode buttons (Melee, Archer,
+	Mage - same green/grayed out style as bot mode), server & hacks drop down menu and -|- big start button. -|- Hide/Show 
+	button alongside short explanation, -|- scrolling text box to display rucoymitm interpreted messages
+6.	Add File menu - 'Launch new Rucoy Bot' instance (for different servers/ accounts) and -|- 'Quit'
+7.	Add Options menu - 'Deactivate License Key', 'Report Problem', or 'Donate :)' 
+8.	Add About menu - 'Version/Author Info' and 'Open RucoyBot.com'
+9.	Adb port number option? Auto find? Notify(email) on direct messages or reference to player name?
+~~~~~~~~~~~~~~~ FromC/S ~~~~~~~~~~~~~~~
+1.	Add parameter for server ip
+~~~~~~~~~~~~~~~RucoyMITM~~~~~~~~~~~~~~~
+1.	Route stdout to Rucoy GUI provided object
+2.	Pass all necessary parameters to terp, froms, and adb bridge.
+~~~~~~~~~~~~~~~RucoySite~~~~~~~~~~~~~~~
+1.	Buy available domain, set up site builder... ecommerce focused?
+2.	Set up home page, checkout, contact page, download now, db, ads, email account for admin & updates
+3.	Configure checkout process to add/provide license key on purchase to customer
+4.	Set up process to listen to and answer all license key validation requests over SSL
+5.	Buy google ad for rucoy bot/post youtube demo?
+'''
+
+
+
+
+
+
+
