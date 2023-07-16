@@ -37,10 +37,10 @@ practical for anyone.
 - Captures and decodes tcp packets in real time
 - Displays translated packets in GUI
 - If client_secret.json is provided, it can send email/text updates about your bot
-  [Texts](screenshot2.png)
+  ![Texts](screenshot2.png)
 - If a username/password is provided, then it can also update a google spreadsheet with
   names/prices of current items in the market. [Example](https://docs.google.com/spreadsheets/d/1v_wNvDZnZRX1W4U3LFYBLACNV_8xEE8V0BF4y-tA698/edit?usp=sharing)
-  [Spreadsheet](screenshot3.png)
+  ![Spreadsheet](screenshot3.png)
 - Connect to a rucoyonline.com api and get current player counts for every server before bot even starts.
 - Track your xp in actual numbers instead of bars and see it go up in real time.
 - Prioritize XP, XP + Gold, or XP + Gold + Loot while botting.
